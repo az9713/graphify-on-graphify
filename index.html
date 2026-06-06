@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>graphify-on-graphify — interactive knowledge graph</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+  html, body { margin: 0; padding: 0; height: 100%; background: #040806; }
+  .bar {
+    box-sizing: border-box; height: 40px; display: flex; align-items: center; gap: 16px;
+    padding: 0 16px; background: #0a120c; color: #e6f5ec;
+    font: 13px/1 "Segoe UI", system-ui, sans-serif; border-bottom: 1px solid #1d2b21;
+  }
+  .bar b { color: #22c55e; }
+  .bar a { color: #4ade80; text-decoration: none; }
+  .bar a:hover { text-decoration: underline; }
+  iframe { border: 0; width: 100%; height: calc(100% - 40px); display: block; }
+</style>
+</head>
+<body>
+<div class="bar">
+  <span><b>graphify-on-graphify</b> — graphify run on its own source (6,188 nodes · 11,460 edges · 971 communities, aggregated view)</span>
+  <a href="graphify-out/graphify_chase_ai-callflow.html">call-flow diagrams</a>
+  <a href="https://github.com/az9713/graphify-on-graphify">README &amp; findings</a>
+</div>
+<iframe src="graphify-out/graph.html" title="Interactive knowledge graph"></iframe>
+</body>
+</html>

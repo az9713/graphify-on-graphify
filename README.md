@@ -4,6 +4,13 @@
 full `/graphify` knowledge-graph build of the graphify v8 repo, run from Claude Code on
 Windows, with every artifact, raw command output, and token receipt committed as evidence.
 
+### ▶ [Open the interactive knowledge graph](https://az9713.github.io/graphify-on-graphify/)
+
+> 6,188 nodes · 11,460 edges · 971 communities (aggregated view) — click nodes, search,
+> filter, zoom. Served via GitHub Pages; GitHub strips scripts/iframes from READMEs, so
+> the live graph runs at the link above rather than inline.
+> Also live: [Mermaid call-flow architecture page](https://az9713.github.io/graphify-on-graphify/graphify-out/graphify_chase_ai-callflow.html).
+
 - `graphify-8/` — the corpus: a snapshot of [safishamsi/graphify](https://github.com/safishamsi/graphify) (v8 branch, MIT — see `graphify-8/LICENSE`). 540 files · ~844K words · 196 code / 341 docs / 1 paper / 2 SVGs.
 - `graphify-out/` — everything the run produced: graph, reports, findings, benchmark, and an `evidence/` folder of raw CLI outputs.
 
@@ -12,8 +19,8 @@ Windows, with every artifact, raw command output, and token receipt committed as
 | The surprises | [`graphify-out/FINDINGS.md`](graphify-out/FINDINGS.md) |
 | Every command + its output | [`graphify-out/COMMANDS_LOG.md`](graphify-out/COMMANDS_LOG.md) |
 | Token-savings math | [`graphify-out/TOKEN_SAVINGS.md`](graphify-out/TOKEN_SAVINGS.md) |
-| The graph itself | [`graphify-out/graph.json`](graphify-out/graph.json) · [`graph.html`](graphify-out/graph.html) (open in a browser) |
-| Mermaid architecture page | [`graphify-out/graphify_chase_ai-callflow.html`](graphify-out/graphify_chase_ai-callflow.html) |
+| The graph itself | [live interactive view](https://az9713.github.io/graphify-on-graphify/) · [`graph.json`](graphify-out/graph.json) |
+| Mermaid architecture page | [live view](https://az9713.github.io/graphify-on-graphify/graphify-out/graphify_chase_ai-callflow.html) · [`source`](graphify-out/graphify_chase_ai-callflow.html) |
 | Raw proof for each claim | [`graphify-out/evidence/`](graphify-out/evidence/) |
 
 ---
