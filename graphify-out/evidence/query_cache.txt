@@ -1,0 +1,30 @@
+Traversal: BFS depth=2 | Start: ['What Worked: 1886 nodes in minutes at $0, real domain extractions, clear graph.html', 'Relationship with empty or missing symbol field is ignored.', 'cached_files returns the set of cached hashes.'] | 22 nodes found
+
+NODE test_scip_ingest.py [src=graphify-8/tests/test_scip_ingest.py loc=L1 community=54]
+NODE ingest_scip_json() [src=graphify-8/graphify/scip_ingest.py loc=L42 community=54]
+NODE test_cache.py [src=graphify-8/tests/test_cache.py loc=L1 community=86]
+NODE save_cached() [src=graphify-8/graphify/cache.py loc=L266 community=156]
+NODE file_hash() [src=graphify-8/graphify/cache.py loc=L97 community=94]
+NODE _make_symbol_doc() [src=graphify-8/tests/test_scip_ingest.py loc=L261 community=54]
+NODE Review: rsl-siege-manager (6 findings on headline report metrics) [src=worked/rsl-siege-manager/review.md loc=None community=132]
+NODE cached_files() [src=graphify-8/graphify/cache.py loc=L321 community=94]
+NODE test_cached_files() [src=graphify-8/tests/test_cache.py loc=L54 community=156]
+NODE Finding 1: Test Fixtures Dominate Core Abstractions When Tests Included [src=worked/rsl-siege-manager/review.md loc=None community=132]
+NODE Case Study README: rsl-siege-manager (Python + TypeScript monorepo) [src=worked/rsl-siege-manager/README.md loc=None community=132]
+NODE Finding 5: Alembic Migration Docstrings Surface as Isolated Nodes (752 vs 259 with tests) [src=worked/rsl-siege-manager/review.md loc=None community=132]
+NODE test_ingest_relationship_without_target_symbol_is_skipped() [src=graphify-8/tests/test_scip_ingest.py loc=L372 community=54]
+NODE Finding 3: Cross-Language Edges Are Mostly Name-Match False Positives [src=worked/rsl-siege-manager/review.md loc=None community=132]
+NODE .graphifyignore Mitigation Recipe (exclude tests/ and alembic versions/) [src=worked/rsl-siege-manager/review.md loc=None community=132]
+NODE rsl-siege-manager Corpus (FastAPI backend + React frontend + Discord bot @ 6085fd66) [src=worked/rsl-siege-manager/README.md loc=None community=132]
+NODE Finding 4: Community Cohesion Uniformly Low (0.05-0.17), Three-Tier Architecture Not Recovered [src=worked/rsl-siege-manager/review.md loc=None community=132]
+NODE cached_files returns the set of cached hashes. [src=graphify-8/tests/test_cache.py loc=L55 community=156]
+NODE Finding 2: Without Tests, God Nodes Mix Domain Types with Entry Points and Utilities [src=worked/rsl-siege-manager/review.md loc=None community=132]
+NODE Finding 6: Suggested Questions Skew Toward Graph-Property Meta-Prompts [src=worked/rsl-siege-manager/review.md loc=None community=132]
+NODE Relationship with empty or missing symbol field is ignored. [src=graphify-8/tests/test_scip_ingest.py loc=L373 community=54]
+NODE What Worked: 1886 nodes in minutes at $0, real domain extractions, clear graph.html [src=worked/rsl-siege-manager/review.md loc=None community=132]
+EDGE cached_files returns the set of cached hashes. --rationale_for [EXTRACTED]--> test_cached_files()
+EDGE What Worked: 1886 nodes in minutes at $0, real domain extractions, clear graph.html --references [EXTRACTED]--> Review: rsl-siege-manager (6 findings on headline report metrics)
+EDGE Relationship with empty or missing symbol field is ignored. --rationale_for [EXTRACTED]--> test_ingest_relationship_without_target_symbol_is_skipped()
+EDGE Review: rsl-siege-manager (6 findings on headline report metrics) --references [EXTRACTED]--> Case Study README: rsl-siege-manager (Python + TypeScript monorepo)
+EDGE Review: rsl-siege-manager (6 findings on headline report metrics) --references [EXTRACTED]--> rsl-siege-manager Corpus (FastAPI backend + React frontend + Discord bot @ 6085fd66)
+... (truncated — 0 more nodes cut by ~1200-token budget. Narrow with context_filter=['call'] or use get_node for a specific symbol)

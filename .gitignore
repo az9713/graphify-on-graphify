@@ -1,0 +1,10 @@
+# local-only tooling dir
+.ignore/
+
+# graphify internals not needed as evidence
+graphify-out/cache/
+graphify-out/2026-06-06/
+graphify-out/.graphify_python
+graphify-out/.graphify_root
+graphify-out/.graphify_labels.json
+graphify-out/backup-run1/graph.html

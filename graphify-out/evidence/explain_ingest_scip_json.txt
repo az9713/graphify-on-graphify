@@ -1,0 +1,29 @@
+Node: ingest_scip_json()
+  ID:        graphify_scip_ingest_ingest_scip_json
+  Source:    graphify-8/graphify/scip_ingest.py L42
+  Type:      code
+  Community: 54
+  Degree:    84
+
+Connections (84):
+  <-- scip_ingest.py [contains] [EXTRACTED]
+  --> _emit_relationships() [calls] [EXTRACTED]
+  --> _make_scip_node_id() [calls] [EXTRACTED]
+  --> _emit_symbol_node() [calls] [EXTRACTED]
+  --> str [references] [EXTRACTED]
+  --> _coerce_str() [calls] [EXTRACTED]
+  --> Any [references] [EXTRACTED]
+  --> object [references] [EXTRACTED]
+  <-- test_ingest_duplicate_edges_are_deduplicated() [calls] [EXTRACTED]
+  <-- test_ingest_edge_structure_complete() [calls] [EXTRACTED]
+  <-- test_ingest_is_definition_emits_scip_def_edge() [calls] [EXTRACTED]
+  <-- test_ingest_is_implementation_emits_scip_impl_edge() [calls] [EXTRACTED]
+  <-- test_ingest_is_reference_emits_scip_ref_edge() [calls] [EXTRACTED]
+  <-- test_ingest_is_type_definition_emits_scip_typed_edge() [calls] [EXTRACTED]
+  <-- test_ingest_multiple_relationships_on_one_symbol() [calls] [EXTRACTED]
+  <-- test_ingest_node_id_contains_source_file_and_symbol_suffix() [calls] [EXTRACTED]
+  <-- test_ingest_node_id_is_deterministic() [calls] [EXTRACTED]
+  <-- test_ingest_non_dict_input_returns_empty() [calls] [EXTRACTED]
+  <-- test_ingest_relationship_item_not_a_dict_is_skipped() [calls] [EXTRACTED]
+  <-- test_ingest_relationship_no_boolean_flags_defaults_to_ref() [calls] [EXTRACTED]
+  ... and 64 more

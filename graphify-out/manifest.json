@@ -1,0 +1,2702 @@
+{
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\__init__.py": {
+    "mtime": 1780715464.1034226,
+    "ast_hash": "0952695e95c3bf4f0f014fd99ffce7d1",
+    "semantic_hash": "0952695e95c3bf4f0f014fd99ffce7d1"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\__main__.py": {
+    "mtime": 1780715464.1152034,
+    "ast_hash": "03fb0034d139bdef9a9d509973bb2465",
+    "semantic_hash": "03fb0034d139bdef9a9d509973bb2465"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\affected.py": {
+    "mtime": 1780715464.1309433,
+    "ast_hash": "b1c7c59fca93899c40f00d2b39d07479",
+    "semantic_hash": "b1c7c59fca93899c40f00d2b39d07479"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\analyze.py": {
+    "mtime": 1780715464.1485374,
+    "ast_hash": "31d04a3426a39d6ce307690bcb569542",
+    "semantic_hash": "31d04a3426a39d6ce307690bcb569542"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\benchmark.py": {
+    "mtime": 1780715464.162966,
+    "ast_hash": "296e66a671ce981129f31b4e59e38f5c",
+    "semantic_hash": "296e66a671ce981129f31b4e59e38f5c"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\build.py": {
+    "mtime": 1780715464.1787715,
+    "ast_hash": "f2b3175b345e27a9b3ac9058e795a076",
+    "semantic_hash": "f2b3175b345e27a9b3ac9058e795a076"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\cache.py": {
+    "mtime": 1780715464.1948307,
+    "ast_hash": "732606d67d3993f6aa1cc50a8fb0fa92",
+    "semantic_hash": "732606d67d3993f6aa1cc50a8fb0fa92"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\callflow_html.py": {
+    "mtime": 1780715464.1948307,
+    "ast_hash": "420af376c0e1fc1c2a2d09af49703f9c",
+    "semantic_hash": "420af376c0e1fc1c2a2d09af49703f9c"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\cluster.py": {
+    "mtime": 1780715464.2107308,
+    "ast_hash": "176b63e16b5341e14f08488cdd94ac44",
+    "semantic_hash": "176b63e16b5341e14f08488cdd94ac44"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\dedup.py": {
+    "mtime": 1780715464.2426417,
+    "ast_hash": "6fcff9b8ec9d3686671a883affc2cd03",
+    "semantic_hash": "6fcff9b8ec9d3686671a883affc2cd03"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\detect.py": {
+    "mtime": 1780715464.2588217,
+    "ast_hash": "d5dc3b64c2b36d2d26659f4333f3eaef",
+    "semantic_hash": "d5dc3b64c2b36d2d26659f4333f3eaef"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\diagnostics.py": {
+    "mtime": 1780715464.2588217,
+    "ast_hash": "447b6f66517ec4783d9f2fddcc30b2fd",
+    "semantic_hash": "447b6f66517ec4783d9f2fddcc30b2fd"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\export.py": {
+    "mtime": 1780715464.274763,
+    "ast_hash": "e7405a3bcefa3f7374155291d42a1b8b",
+    "semantic_hash": "e7405a3bcefa3f7374155291d42a1b8b"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\extract.py": {
+    "mtime": 1780715464.3061266,
+    "ast_hash": "0e707c780b2fd7f8fc8b6535a87b9447",
+    "semantic_hash": "0e707c780b2fd7f8fc8b6535a87b9447"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\global_graph.py": {
+    "mtime": 1780715464.3217888,
+    "ast_hash": "432fd5b35bd753fbc794a0a147f294f8",
+    "semantic_hash": "432fd5b35bd753fbc794a0a147f294f8"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\google_workspace.py": {
+    "mtime": 1780715464.3487723,
+    "ast_hash": "b3ae1a004b0e9ffe6cbb3bf2056bb7b3",
+    "semantic_hash": "b3ae1a004b0e9ffe6cbb3bf2056bb7b3"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\hooks.py": {
+    "mtime": 1780715464.3532484,
+    "ast_hash": "b28c9cd17a8980b296c842bcbc7cce54",
+    "semantic_hash": "b28c9cd17a8980b296c842bcbc7cce54"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\ingest.py": {
+    "mtime": 1780715464.3766124,
+    "ast_hash": "aea82ac8205ebe32b4cf9b0d76227f02",
+    "semantic_hash": "aea82ac8205ebe32b4cf9b0d76227f02"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\llm.py": {
+    "mtime": 1780715464.3891952,
+    "ast_hash": "96bdb6dba6fd8058f2b75151c16871c6",
+    "semantic_hash": "96bdb6dba6fd8058f2b75151c16871c6"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\manifest.py": {
+    "mtime": 1780715464.4053056,
+    "ast_hash": "55144c02f06a65f3ed6d4dc27f368d64",
+    "semantic_hash": "55144c02f06a65f3ed6d4dc27f368d64"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\mcp_ingest.py": {
+    "mtime": 1780715464.4172418,
+    "ast_hash": "d2de6e8407ccd4e58c0aed718b4531e8",
+    "semantic_hash": "d2de6e8407ccd4e58c0aed718b4531e8"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\multigraph_compat.py": {
+    "mtime": 1780715464.419249,
+    "ast_hash": "01c85da827a668c896d0e13e3a7e7a35",
+    "semantic_hash": "01c85da827a668c896d0e13e3a7e7a35"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\prs.py": {
+    "mtime": 1780715464.433103,
+    "ast_hash": "4bb5d792c85f5e20d3f1c0043992726f",
+    "semantic_hash": "4bb5d792c85f5e20d3f1c0043992726f"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\querylog.py": {
+    "mtime": 1780715464.4532485,
+    "ast_hash": "f1440a762647198b9d713d89c47d10c0",
+    "semantic_hash": "f1440a762647198b9d713d89c47d10c0"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\report.py": {
+    "mtime": 1780715464.4730783,
+    "ast_hash": "42b1d4a6e8f3f2051b698c9a24886ce5",
+    "semantic_hash": "42b1d4a6e8f3f2051b698c9a24886ce5"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\scip_ingest.py": {
+    "mtime": 1780715464.4807837,
+    "ast_hash": "13f6facc2574493adeab74eff1b964a7",
+    "semantic_hash": "13f6facc2574493adeab74eff1b964a7"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\security.py": {
+    "mtime": 1780715464.4969788,
+    "ast_hash": "1b9fbae9bc3cf687c43eca70228cde71",
+    "semantic_hash": "1b9fbae9bc3cf687c43eca70228cde71"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\semantic_cleanup.py": {
+    "mtime": 1780715464.512866,
+    "ast_hash": "3945af5496f83e2a5e13f5faab0c4533",
+    "semantic_hash": "3945af5496f83e2a5e13f5faab0c4533"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\serve.py": {
+    "mtime": 1780715464.5276573,
+    "ast_hash": "0f73b89d68eec3249da69ff2b93bfe56",
+    "semantic_hash": "0f73b89d68eec3249da69ff2b93bfe56"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\symbol_resolution.py": {
+    "mtime": 1780715464.782883,
+    "ast_hash": "36859b1f61b649ad9bda07d274e08506",
+    "semantic_hash": "36859b1f61b649ad9bda07d274e08506"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\transcribe.py": {
+    "mtime": 1780715464.7990727,
+    "ast_hash": "faac44f47560572a5ec40b72577d91f0",
+    "semantic_hash": "faac44f47560572a5ec40b72577d91f0"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\tree_html.py": {
+    "mtime": 1780715464.7990727,
+    "ast_hash": "5b4e427ffd86b66067b245ab4caaa717",
+    "semantic_hash": "5b4e427ffd86b66067b245ab4caaa717"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\validate.py": {
+    "mtime": 1780715464.8209548,
+    "ast_hash": "7554867aab56c5e734d71311e72b40ca",
+    "semantic_hash": "7554867aab56c5e734d71311e72b40ca"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\watch.py": {
+    "mtime": 1780715464.8417907,
+    "ast_hash": "3e65eec10ce1fa6d904afd33a446a69a",
+    "semantic_hash": "3e65eec10ce1fa6d904afd33a446a69a"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\wiki.py": {
+    "mtime": 1780715464.8559606,
+    "ast_hash": "5953a7bb2cb124f4479cc5501e231478",
+    "semantic_hash": "5953a7bb2cb124f4479cc5501e231478"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\__init__.py": {
+    "mtime": 1780715466.7687893,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\bench_extract.py": {
+    "mtime": 1780715466.782689,
+    "ast_hash": "135580b43f822e71956d42e71ca6315f",
+    "semantic_hash": "135580b43f822e71956d42e71ca6315f"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\conftest.py": {
+    "mtime": 1780715466.79251,
+    "ast_hash": "9ea2f6980cef0dabca5224008209d000",
+    "semantic_hash": "9ea2f6980cef0dabca5224008209d000"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\fixtures\\barrel_reexport.ts": {
+    "mtime": 1780715467.887735,
+    "ast_hash": "8ec647677c8cc5ee917c0c1135f6113e",
+    "semantic_hash": "8ec647677c8cc5ee917c0c1135f6113e"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\fixtures\\cjs_require.js": {
+    "mtime": 1780715467.887735,
+    "ast_hash": "0acf74af24d36e7fdb1059d08bbcd4e9",
+    "semantic_hash": "0acf74af24d36e7fdb1059d08bbcd4e9"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\fixtures\\cookieHelpers.ts": {
+    "mtime": 1780715467.8977141,
+    "ast_hash": "0892c39d8d967353e9a61189ea61d1ac",
+    "semantic_hash": "0892c39d8d967353e9a61189ea61d1ac"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\fixtures\\crate_a\\src\\lib.rs": {
+    "mtime": 1780715468.5043507,
+    "ast_hash": "1c8623929fa9dd45e3384942a611b627",
+    "semantic_hash": "1c8623929fa9dd45e3384942a611b627"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\fixtures\\crate_b\\src\\lib.rs": {
+    "mtime": 1780715468.5363576,
+    "ast_hash": "0b13352dec4ffa03068dbdcbc960b097",
+    "semantic_hash": "0b13352dec4ffa03068dbdcbc960b097"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\fixtures\\dynamic_import.ts": {
+    "mtime": 1780715467.9298303,
+    "ast_hash": "cc09d28cc01031fca5318eb84af0936c",
+    "semantic_hash": "cc09d28cc01031fca5318eb84af0936c"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\fixtures\\extraction.json": {
+    "mtime": 1780715467.9298303,
+    "ast_hash": "3d3a3cbe0e39447c8a3a07398525e606",
+    "semantic_hash": "3d3a3cbe0e39447c8a3a07398525e606"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\fixtures\\sample.c": {
+    "mtime": 1780715467.9457173,
+    "ast_hash": "133922d65faa0b692a5dfbb189c0d612",
+    "semantic_hash": "133922d65faa0b692a5dfbb189c0d612"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\fixtures\\sample.cpp": {
+    "mtime": 1780715467.9650235,
+    "ast_hash": "2e364e6717f1c969c6b92857191b5c13",
+    "semantic_hash": "2e364e6717f1c969c6b92857191b5c13"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\fixtures\\sample.cs": {
+    "mtime": 1780715467.9797919,
+    "ast_hash": "5499707fcfd49ce481f5bba3decdf8d9",
+    "semantic_hash": "5499707fcfd49ce481f5bba3decdf8d9"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\fixtures\\sample.csproj": {
+    "mtime": 1780715467.9938195,
+    "ast_hash": "b721452d30edb5d335c190a72abc8166",
+    "semantic_hash": "b721452d30edb5d335c190a72abc8166"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\fixtures\\sample.dfm": {
+    "mtime": 1780715468.007246,
+    "ast_hash": "99bde5b15919440b38edaa4b742eea0a",
+    "semantic_hash": "99bde5b15919440b38edaa4b742eea0a"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\fixtures\\sample.dm": {
+    "mtime": 1780715468.0139894,
+    "ast_hash": "41f0f92d5ee140a04e8927fd7d5ad7d5",
+    "semantic_hash": "41f0f92d5ee140a04e8927fd7d5ad7d5"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\fixtures\\sample.dmf": {
+    "mtime": 1780715468.0139894,
+    "ast_hash": "1fbafbc6ff4705c5e0374e54cdd42105",
+    "semantic_hash": "1fbafbc6ff4705c5e0374e54cdd42105"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\fixtures\\sample.dmi": {
+    "mtime": 1780715468.0260866,
+    "ast_hash": "6219fabd2ff0339d30f71641648e1de9",
+    "semantic_hash": "6219fabd2ff0339d30f71641648e1de9"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\fixtures\\sample.dmm": {
+    "mtime": 1780715468.0421393,
+    "ast_hash": "d618e1d5fd46498b770259ebaa4408b6",
+    "semantic_hash": "d618e1d5fd46498b770259ebaa4408b6"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\fixtures\\sample.ex": {
+    "mtime": 1780715468.0499225,
+    "ast_hash": "6bd40cf265a29bac177752e55ed5016f",
+    "semantic_hash": "6bd40cf265a29bac177752e55ed5016f"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\fixtures\\sample.f90": {
+    "mtime": 1780715468.0577774,
+    "ast_hash": "6fc157816bc902af882c434ea6635a11",
+    "semantic_hash": "6fc157816bc902af882c434ea6635a11"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\fixtures\\sample.go": {
+    "mtime": 1780715468.0737402,
+    "ast_hash": "400b5d61e3c506c5f3f734662b730bc8",
+    "semantic_hash": "400b5d61e3c506c5f3f734662b730bc8"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\fixtures\\sample.groovy": {
+    "mtime": 1780715468.0737402,
+    "ast_hash": "2250c3ae65dd5d7d1e87fea09709f237",
+    "semantic_hash": "2250c3ae65dd5d7d1e87fea09709f237"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\fixtures\\sample.java": {
+    "mtime": 1780715468.089573,
+    "ast_hash": "1f357ab5abd8fcaf53e719ab4b19f8c9",
+    "semantic_hash": "1f357ab5abd8fcaf53e719ab4b19f8c9"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\fixtures\\sample.jl": {
+    "mtime": 1780715468.111317,
+    "ast_hash": "297455fff25e936fcb5e741d9ecc7d88",
+    "semantic_hash": "297455fff25e936fcb5e741d9ecc7d88"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\fixtures\\sample.json": {
+    "mtime": 1780715468.121407,
+    "ast_hash": "d31d04b254323a62bf3a362bb6eefdbb",
+    "semantic_hash": "d31d04b254323a62bf3a362bb6eefdbb"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\fixtures\\sample.kt": {
+    "mtime": 1780715468.1252043,
+    "ast_hash": "a9271c8748f2b4bef809a292c8dcdc7d",
+    "semantic_hash": "a9271c8748f2b4bef809a292c8dcdc7d"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\fixtures\\sample.lfm": {
+    "mtime": 1780715468.1325574,
+    "ast_hash": "318b67ec178b488777a27bb87c90fe70",
+    "semantic_hash": "318b67ec178b488777a27bb87c90fe70"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\fixtures\\sample.lpk": {
+    "mtime": 1780715468.1395454,
+    "ast_hash": "40382a5a22dd5a8da7ab230a1b200249",
+    "semantic_hash": "40382a5a22dd5a8da7ab230a1b200249"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\fixtures\\sample.luau": {
+    "mtime": 1780715468.1521492,
+    "ast_hash": "b8ab779b73b3da32047fa5b2cb7330c0",
+    "semantic_hash": "b8ab779b73b3da32047fa5b2cb7330c0"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\fixtures\\sample.m": {
+    "mtime": 1780715468.1604798,
+    "ast_hash": "de973632d50625d5d20edd42f9af7ec2",
+    "semantic_hash": "de973632d50625d5d20edd42f9af7ec2"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\fixtures\\sample.mcp.json": {
+    "mtime": 1780715468.1693985,
+    "ast_hash": "2b7343a1123fd7e8f23ffb3862704b76",
+    "semantic_hash": "2b7343a1123fd7e8f23ffb3862704b76"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\fixtures\\sample.pas": {
+    "mtime": 1780715468.1851647,
+    "ast_hash": "c653a2f471266f9eaa8f9a5ad3027889",
+    "semantic_hash": "c653a2f471266f9eaa8f9a5ad3027889"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\fixtures\\sample.php": {
+    "mtime": 1780715468.2011874,
+    "ast_hash": "ba530e99fac3cc2c6d211cf432e7861d",
+    "semantic_hash": "ba530e99fac3cc2c6d211cf432e7861d"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\fixtures\\sample.ps1": {
+    "mtime": 1780715468.2150593,
+    "ast_hash": "db5387ee9f8caa679bae4a7fef931e45",
+    "semantic_hash": "db5387ee9f8caa679bae4a7fef931e45"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\fixtures\\sample.py": {
+    "mtime": 1780715468.2238853,
+    "ast_hash": "593ed7c2da295ecd2147456aac236981",
+    "semantic_hash": "593ed7c2da295ecd2147456aac236981"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\fixtures\\sample.razor": {
+    "mtime": 1780715468.2332864,
+    "ast_hash": "be2f4c06f674c6ea7cbffba35e5a1315",
+    "semantic_hash": "be2f4c06f674c6ea7cbffba35e5a1315"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\fixtures\\sample.rb": {
+    "mtime": 1780715468.243072,
+    "ast_hash": "179100a29facc568ff1c833e1dd54878",
+    "semantic_hash": "179100a29facc568ff1c833e1dd54878"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\fixtures\\sample.rs": {
+    "mtime": 1780715468.2548037,
+    "ast_hash": "54fb3850b0dcf86e68c99cbd9a0aef7e",
+    "semantic_hash": "54fb3850b0dcf86e68c99cbd9a0aef7e"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\fixtures\\sample.scala": {
+    "mtime": 1780715468.2651625,
+    "ast_hash": "9abd68be244dfd2931a0c86addede1d6",
+    "semantic_hash": "9abd68be244dfd2931a0c86addede1d6"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\fixtures\\sample.sh": {
+    "mtime": 1780715468.2811332,
+    "ast_hash": "5a200a9dd62157675d0fabf0507872e1",
+    "semantic_hash": "5a200a9dd62157675d0fabf0507872e1"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\fixtures\\sample.sln": {
+    "mtime": 1780715468.2811332,
+    "ast_hash": "6947ccb89c45b230eb68d4273f4c84d0",
+    "semantic_hash": "6947ccb89c45b230eb68d4273f4c84d0"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\fixtures\\sample.sql": {
+    "mtime": 1780715468.3024101,
+    "ast_hash": "55836840117e9437c727e44a145fb3cb",
+    "semantic_hash": "55836840117e9437c727e44a145fb3cb"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\fixtures\\sample.swift": {
+    "mtime": 1780715468.3126621,
+    "ast_hash": "74a660604131a5a7a49f5c3a6f9a8bda",
+    "semantic_hash": "74a660604131a5a7a49f5c3a6f9a8bda"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\fixtures\\sample.ts": {
+    "mtime": 1780715468.3311808,
+    "ast_hash": "fa5cf1c58b5c75a4c98b85a58a1e428d",
+    "semantic_hash": "fa5cf1c58b5c75a4c98b85a58a1e428d"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\fixtures\\sample.tsx": {
+    "mtime": 1780715468.3311808,
+    "ast_hash": "13c071e559211a99a4b48174c31f4b61",
+    "semantic_hash": "13c071e559211a99a4b48174c31f4b61"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\fixtures\\sample.zig": {
+    "mtime": 1780715468.3442752,
+    "ast_hash": "a266e376f765a6bef5ddc000e04b0898",
+    "semantic_hash": "a266e376f765a6bef5ddc000e04b0898"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\fixtures\\sample_alter_fk.sql": {
+    "mtime": 1780715468.3550658,
+    "ast_hash": "05c662d0ecff4887cd3cb4ef33b21473",
+    "semantic_hash": "05c662d0ecff4887cd3cb4ef33b21473"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\fixtures\\sample_calls.py": {
+    "mtime": 1780715468.3623238,
+    "ast_hash": "74c57bfaf8163167f1cc0d3254a2e33d",
+    "semantic_hash": "74c57bfaf8163167f1cc0d3254a2e33d"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\fixtures\\sample_php_config.php": {
+    "mtime": 1780715468.3761446,
+    "ast_hash": "482b26ed1756b6a320400275f2f3a7d0",
+    "semantic_hash": "482b26ed1756b6a320400275f2f3a7d0"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\fixtures\\sample_php_container.php": {
+    "mtime": 1780715468.3761446,
+    "ast_hash": "ffaad71d135085277081f114ee44de0e",
+    "semantic_hash": "ffaad71d135085277081f114ee44de0e"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\fixtures\\sample_php_listen.php": {
+    "mtime": 1780715468.3966594,
+    "ast_hash": "5cd5ff268d733aa7c22aea7eaeb67672",
+    "semantic_hash": "5cd5ff268d733aa7c22aea7eaeb67672"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\fixtures\\sample_php_static_prop.php": {
+    "mtime": 1780715468.4080243,
+    "ast_hash": "7e2a863e5680ce62fac745d2c1a2464c",
+    "semantic_hash": "7e2a863e5680ce62fac745d2c1a2464c"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\fixtures\\sample_preprocessed.F90": {
+    "mtime": 1780715468.410946,
+    "ast_hash": "ae9ee8e877df81cfb89a5e813bc56a9a",
+    "semantic_hash": "ae9ee8e877df81cfb89a5e813bc56a9a"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\fixtures\\sample_schema_qualified.sql": {
+    "mtime": 1780715468.423874,
+    "ast_hash": "62d82daca5179757089cdd69bfd4e5a7",
+    "semantic_hash": "62d82daca5179757089cdd69bfd4e5a7"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\fixtures\\sample_spock.groovy": {
+    "mtime": 1780715468.4287145,
+    "ast_hash": "71513c595397cc9dca0e86c8f46056e9",
+    "semantic_hash": "71513c595397cc9dca0e86c8f46056e9"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\fixtures\\sample_tsconfig.json": {
+    "mtime": 1780715468.442072,
+    "ast_hash": "bf3bf40adb7758075915463bd43d995b",
+    "semantic_hash": "bf3bf40adb7758075915463bd43d995b"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\fixtures\\storageHelpers.ts": {
+    "mtime": 1780715468.4561963,
+    "ast_hash": "3e87931c03463fa3fdf3c92f01597788",
+    "semantic_hash": "3e87931c03463fa3fdf3c92f01597788"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\fixtures\\swift_cross_file\\Foo+Ext.swift": {
+    "mtime": 1780715468.5840013,
+    "ast_hash": "bf02cbf92c72f1d92ad8abf31f4152b2",
+    "semantic_hash": "bf02cbf92c72f1d92ad8abf31f4152b2"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\fixtures\\swift_cross_file\\Foo.swift": {
+    "mtime": 1780715468.599916,
+    "ast_hash": "2878c2c1cadf276e56392ac526f2fb34",
+    "semantic_hash": "2878c2c1cadf276e56392ac526f2fb34"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\fixtures\\typescript_advanced.ts": {
+    "mtime": 1780715468.4561963,
+    "ast_hash": "3a5170de64f08dfe89bfed3662bbe1ba",
+    "semantic_hash": "3a5170de64f08dfe89bfed3662bbe1ba"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\fixtures\\urlHelpers.ts": {
+    "mtime": 1780715468.4722822,
+    "ast_hash": "a9469c4a6d9646ffea83b938c1dfd771",
+    "semantic_hash": "a9469c4a6d9646ffea83b938c1dfd771"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\test_affected_cli.py": {
+    "mtime": 1780715466.8185477,
+    "ast_hash": "93b605688045e98120ea3a928b18f600",
+    "semantic_hash": "93b605688045e98120ea3a928b18f600"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\test_analyze.py": {
+    "mtime": 1780715466.8259318,
+    "ast_hash": "9f7fe3fe35bff228a67e3d138378b6df",
+    "semantic_hash": "9f7fe3fe35bff228a67e3d138378b6df"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\test_antigravity_install.py": {
+    "mtime": 1780715466.840051,
+    "ast_hash": "181be24e5cf57ea44a502835c505eb46",
+    "semantic_hash": "181be24e5cf57ea44a502835c505eb46"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\test_astro_extraction.py": {
+    "mtime": 1780715466.8606658,
+    "ast_hash": "7ec3913e42e3282389476e86ff56fda9",
+    "semantic_hash": "7ec3913e42e3282389476e86ff56fda9"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\test_backend_extras.py": {
+    "mtime": 1780715466.8739035,
+    "ast_hash": "5d02374a686820dd8cbdbd4ee50d4693",
+    "semantic_hash": "5d02374a686820dd8cbdbd4ee50d4693"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\test_benchmark.py": {
+    "mtime": 1780715466.8818662,
+    "ast_hash": "fa18a431bf00d8b10afa4439d600845e",
+    "semantic_hash": "fa18a431bf00d8b10afa4439d600845e"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\test_build.py": {
+    "mtime": 1780715466.897669,
+    "ast_hash": "de51ba544398af5c4a6edc72964e411a",
+    "semantic_hash": "de51ba544398af5c4a6edc72964e411a"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\test_cache.py": {
+    "mtime": 1780715466.913613,
+    "ast_hash": "270a271da6233b991cd8076679cbea69",
+    "semantic_hash": "270a271da6233b991cd8076679cbea69"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\test_callflow_html.py": {
+    "mtime": 1780715466.9298196,
+    "ast_hash": "518778722656c1e93b4ed9c3d6d92cbe",
+    "semantic_hash": "518778722656c1e93b4ed9c3d6d92cbe"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\test_charmap_encoding.py": {
+    "mtime": 1780715466.9371612,
+    "ast_hash": "60951f23cd962aa673bf3196e34c83a4",
+    "semantic_hash": "60951f23cd962aa673bf3196e34c83a4"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\test_chunking.py": {
+    "mtime": 1780715466.9527411,
+    "ast_hash": "423db0d4cbaa2db65bd7a419280a53b4",
+    "semantic_hash": "423db0d4cbaa2db65bd7a419280a53b4"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\test_claude_cli_backend.py": {
+    "mtime": 1780715466.9615738,
+    "ast_hash": "9f4cca45b2fabc373ed3f6e4c7b952b9",
+    "semantic_hash": "9f4cca45b2fabc373ed3f6e4c7b952b9"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\test_claude_md.py": {
+    "mtime": 1780715466.9856303,
+    "ast_hash": "397054297299c51b3839c758c9d0ee27",
+    "semantic_hash": "397054297299c51b3839c758c9d0ee27"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\test_cli_export.py": {
+    "mtime": 1780715466.9933927,
+    "ast_hash": "00c1de05d85f8e37172f735e40ab1f3b",
+    "semantic_hash": "00c1de05d85f8e37172f735e40ab1f3b"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\test_cluster.py": {
+    "mtime": 1780715467.0094361,
+    "ast_hash": "e78eaa0810394cf4d36c567a3ff3e700",
+    "semantic_hash": "e78eaa0810394cf4d36c567a3ff3e700"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\test_confidence.py": {
+    "mtime": 1780715467.025156,
+    "ast_hash": "5bfa88dee39cd6e11c04b886c83b5f53",
+    "semantic_hash": "5bfa88dee39cd6e11c04b886c83b5f53"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\test_cpp_preprocess.py": {
+    "mtime": 1780715467.0271945,
+    "ast_hash": "0a5a47940eb0396572004253b4d2472d",
+    "semantic_hash": "0a5a47940eb0396572004253b4d2472d"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\test_dart.py": {
+    "mtime": 1780715467.0548575,
+    "ast_hash": "c6730b38853d30499d8ca715e664ed70",
+    "semantic_hash": "c6730b38853d30499d8ca715e664ed70"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\test_dedup.py": {
+    "mtime": 1780715467.062318,
+    "ast_hash": "5b547064b1b9d0e30ca4ec1e354819ce",
+    "semantic_hash": "5b547064b1b9d0e30ca4ec1e354819ce"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\test_detect.py": {
+    "mtime": 1780715467.0773654,
+    "ast_hash": "1b709ae584874ba09cd32d504c5ec916",
+    "semantic_hash": "1b709ae584874ba09cd32d504c5ec916"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\test_devin.py": {
+    "mtime": 1780715467.090444,
+    "ast_hash": "289910619d1c098bab31b853e2627800",
+    "semantic_hash": "289910619d1c098bab31b853e2627800"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\test_dotnet.py": {
+    "mtime": 1780715467.104527,
+    "ast_hash": "af3ad2c9d73b1ee518a2bb6feb7268b9",
+    "semantic_hash": "af3ad2c9d73b1ee518a2bb6feb7268b9"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\test_explain_cli.py": {
+    "mtime": 1780715467.1244962,
+    "ast_hash": "0cd42950c90984b9aaf1fa75418e4257",
+    "semantic_hash": "0cd42950c90984b9aaf1fa75418e4257"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\test_export.py": {
+    "mtime": 1780715467.1362524,
+    "ast_hash": "2a9ec56d68fa412597f9b28d52a6e168",
+    "semantic_hash": "2a9ec56d68fa412597f9b28d52a6e168"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\test_extract.py": {
+    "mtime": 1780715467.1522593,
+    "ast_hash": "ab86ac4ee1820b2c488e0a4e919ec827",
+    "semantic_hash": "ab86ac4ee1820b2c488e0a4e919ec827"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\test_extract_cli.py": {
+    "mtime": 1780715467.160147,
+    "ast_hash": "116fbfd9d582a427f560034d1e6cf47b",
+    "semantic_hash": "116fbfd9d582a427f560034d1e6cf47b"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\test_file_node_id_spec.py": {
+    "mtime": 1780715467.1743548,
+    "ast_hash": "52e4e7b0cbb99fb3813559d98e1864b8",
+    "semantic_hash": "52e4e7b0cbb99fb3813559d98e1864b8"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\test_global_graph.py": {
+    "mtime": 1780715467.187626,
+    "ast_hash": "93d81c2edd80081f8f5c23cbc31b9b01",
+    "semantic_hash": "93d81c2edd80081f8f5c23cbc31b9b01"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\test_google_workspace.py": {
+    "mtime": 1780715467.2055385,
+    "ast_hash": "e2051fe2f01020be6faecd8db5365246",
+    "semantic_hash": "e2051fe2f01020be6faecd8db5365246"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\test_hooks.py": {
+    "mtime": 1780715467.2158966,
+    "ast_hash": "c45fb71a67d0062288f0e37c328bf743",
+    "semantic_hash": "c45fb71a67d0062288f0e37c328bf743"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\test_hypergraph.py": {
+    "mtime": 1780715467.2310135,
+    "ast_hash": "1d00bbd5af35c6c0023230d29f950afe",
+    "semantic_hash": "1d00bbd5af35c6c0023230d29f950afe"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\test_import_extension_resolution.py": {
+    "mtime": 1780715467.2551005,
+    "ast_hash": "e0e378ea78bf1fcbf41cf3bd519e64e8",
+    "semantic_hash": "e0e378ea78bf1fcbf41cf3bd519e64e8"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\test_incremental.py": {
+    "mtime": 1780715467.2686887,
+    "ast_hash": "51152e31b3b2b094086492e121752eeb",
+    "semantic_hash": "51152e31b3b2b094086492e121752eeb"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\test_ingest.py": {
+    "mtime": 1780715467.2794063,
+    "ast_hash": "cf1cbec0881b30e24d7eee4d77fc1df0",
+    "semantic_hash": "cf1cbec0881b30e24d7eee4d77fc1df0"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\test_install.py": {
+    "mtime": 1780715467.2955806,
+    "ast_hash": "aaebe3f71bc3e7ccf3e0ef45bd2886f2",
+    "semantic_hash": "aaebe3f71bc3e7ccf3e0ef45bd2886f2"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\test_install_references.py": {
+    "mtime": 1780715467.3115878,
+    "ast_hash": "85a9d9829d3c296630364d4e28573e11",
+    "semantic_hash": "85a9d9829d3c296630364d4e28573e11"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\test_install_roundtrip.py": {
+    "mtime": 1780715467.3115878,
+    "ast_hash": "8988842061f82c8f190e6468e911faa1",
+    "semantic_hash": "8988842061f82c8f190e6468e911faa1"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\test_install_strings.py": {
+    "mtime": 1780715467.3275807,
+    "ast_hash": "e2362a337d88e3d680c2eb24ad60fcc1",
+    "semantic_hash": "e2362a337d88e3d680c2eb24ad60fcc1"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\test_install_upgrade.py": {
+    "mtime": 1780715467.3535,
+    "ast_hash": "adc4295e1d1cb2c211050253ddb277e9",
+    "semantic_hash": "adc4295e1d1cb2c211050253ddb277e9"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\test_js_import_resolution.py": {
+    "mtime": 1780715467.359505,
+    "ast_hash": "95431097067f106f3cb87e2772f6182e",
+    "semantic_hash": "95431097067f106f3cb87e2772f6182e"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\test_labeling.py": {
+    "mtime": 1780715467.3753119,
+    "ast_hash": "71be8847380c3c4c39e1e65d7bfd287f",
+    "semantic_hash": "71be8847380c3c4c39e1e65d7bfd287f"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\test_languages.py": {
+    "mtime": 1780715467.398574,
+    "ast_hash": "fc5feaf1fd8feb86ec70623db9e78f19",
+    "semantic_hash": "fc5feaf1fd8feb86ec70623db9e78f19"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\test_llm_backends.py": {
+    "mtime": 1780715467.4122877,
+    "ast_hash": "cc45b90aa4f9607e7650727cbd4ddc3e",
+    "semantic_hash": "cc45b90aa4f9607e7650727cbd4ddc3e"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\test_llm_parser.py": {
+    "mtime": 1780715467.4263992,
+    "ast_hash": "161f61d9fe578483d4c38e20c59444cd",
+    "semantic_hash": "161f61d9fe578483d4c38e20c59444cd"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\test_mcp_ingest.py": {
+    "mtime": 1780715467.4376888,
+    "ast_hash": "876871c333288bd75247c1212be359d1",
+    "semantic_hash": "876871c333288bd75247c1212be359d1"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\test_multigraph_compat.py": {
+    "mtime": 1780715467.4537506,
+    "ast_hash": "73305b792720c845482173398087d72d",
+    "semantic_hash": "73305b792720c845482173398087d72d"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\test_multigraph_diagnostics.py": {
+    "mtime": 1780715467.45894,
+    "ast_hash": "6d6e9be61789d8f65b46448594a49617",
+    "semantic_hash": "6d6e9be61789d8f65b46448594a49617"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\test_multilang.py": {
+    "mtime": 1780715467.471767,
+    "ast_hash": "0e5301bc0aaca12b9c3ced37f51dd7fb",
+    "semantic_hash": "0e5301bc0aaca12b9c3ced37f51dd7fb"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\test_obsidian_filename_cap.py": {
+    "mtime": 1780715467.4856162,
+    "ast_hash": "867d0730d05d37dc9abb4dd1b429b180",
+    "semantic_hash": "867d0730d05d37dc9abb4dd1b429b180"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\test_office_limits.py": {
+    "mtime": 1780715467.5077865,
+    "ast_hash": "81e03b2dd409fce6bd5663f5fc27a167",
+    "semantic_hash": "81e03b2dd409fce6bd5663f5fc27a167"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\test_ollama.py": {
+    "mtime": 1780715467.5212233,
+    "ast_hash": "e9c1f85940ac83c457c12cd0a0d4f23e",
+    "semantic_hash": "e9c1f85940ac83c457c12cd0a0d4f23e"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\test_pascal.py": {
+    "mtime": 1780715467.533039,
+    "ast_hash": "f6b80257cd3f437f03cfa6011d718c5e",
+    "semantic_hash": "f6b80257cd3f437f03cfa6011d718c5e"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\test_path_cli.py": {
+    "mtime": 1780715467.5489466,
+    "ast_hash": "80cd72719c4bcc00fcfbe88d922cb663",
+    "semantic_hash": "80cd72719c4bcc00fcfbe88d922cb663"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\test_pipeline.py": {
+    "mtime": 1780715467.5540726,
+    "ast_hash": "e0d142cae89a8c14d75f2cc7b0e671db",
+    "semantic_hash": "e0d142cae89a8c14d75f2cc7b0e671db"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\test_provider_registry.py": {
+    "mtime": 1780715467.5762434,
+    "ast_hash": "13e5ab5662b413aea341bfdd1f6a67eb",
+    "semantic_hash": "13e5ab5662b413aea341bfdd1f6a67eb"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\test_prs.py": {
+    "mtime": 1780715467.5841606,
+    "ast_hash": "b768e0c7664677ec2d63ff60ab7e81ae",
+    "semantic_hash": "b768e0c7664677ec2d63ff60ab7e81ae"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\test_python_import_resolution.py": {
+    "mtime": 1780715467.5979831,
+    "ast_hash": "25596ac4be3c9511c6bee48f6508a23f",
+    "semantic_hash": "25596ac4be3c9511c6bee48f6508a23f"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\test_query_cli.py": {
+    "mtime": 1780715467.611191,
+    "ast_hash": "f81c1fa77538a7682569333d5d92d0cb",
+    "semantic_hash": "f81c1fa77538a7682569333d5d92d0cb"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\test_querylog.py": {
+    "mtime": 1780715467.6269114,
+    "ast_hash": "220702d93e163a44ef6066e8aab6f730",
+    "semantic_hash": "220702d93e163a44ef6066e8aab6f730"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\test_rationale.py": {
+    "mtime": 1780715467.6430528,
+    "ast_hash": "9952ea21d3d565463303091a2760c4a8",
+    "semantic_hash": "9952ea21d3d565463303091a2760c4a8"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\test_read_hook.py": {
+    "mtime": 1780715467.6627276,
+    "ast_hash": "33dbefc776d550c3e5014b9235718bb4",
+    "semantic_hash": "33dbefc776d550c3e5014b9235718bb4"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\test_report.py": {
+    "mtime": 1780715467.6747417,
+    "ast_hash": "27772006d6b1d2ccb25e7f9298f936ca",
+    "semantic_hash": "27772006d6b1d2ccb25e7f9298f936ca"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\test_scip_ingest.py": {
+    "mtime": 1780715467.6907103,
+    "ast_hash": "36ed4995934474617f22107977ae09a5",
+    "semantic_hash": "36ed4995934474617f22107977ae09a5"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\test_security.py": {
+    "mtime": 1780715467.7064729,
+    "ast_hash": "bc8cee3507890bd8a603c91ac234075c",
+    "semantic_hash": "bc8cee3507890bd8a603c91ac234075c"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\test_semantic_cleanup.py": {
+    "mtime": 1780715467.7064729,
+    "ast_hash": "83a78ec9ff04a285d25866da6017a60c",
+    "semantic_hash": "83a78ec9ff04a285d25866da6017a60c"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\test_semantic_similarity.py": {
+    "mtime": 1780715467.722342,
+    "ast_hash": "15f538f89a2a4d8cf2488b43ecb355bb",
+    "semantic_hash": "15f538f89a2a4d8cf2488b43ecb355bb"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\test_serve.py": {
+    "mtime": 1780715467.7420025,
+    "ast_hash": "e3753edb9d1d60dcd5a871c91d265f35",
+    "semantic_hash": "e3753edb9d1d60dcd5a871c91d265f35"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\test_skillgen.py": {
+    "mtime": 1780715467.7544613,
+    "ast_hash": "9389c90b4307cf036e113873a533fd15",
+    "semantic_hash": "9389c90b4307cf036e113873a533fd15"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\test_symbol_resolution.py": {
+    "mtime": 1780715467.7744539,
+    "ast_hash": "41a1c078b43df7b21ff6b85ed9077e29",
+    "semantic_hash": "41a1c078b43df7b21ff6b85ed9077e29"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\test_terraform.py": {
+    "mtime": 1780715467.788447,
+    "ast_hash": "6b8119ffaae9d1080bd0b3e374ffcfa5",
+    "semantic_hash": "6b8119ffaae9d1080bd0b3e374ffcfa5"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\test_transcribe.py": {
+    "mtime": 1780715467.7984614,
+    "ast_hash": "14e0b3718cda2e24410c26e7b88c31fe",
+    "semantic_hash": "14e0b3718cda2e24410c26e7b88c31fe"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\test_ts_inheritance.py": {
+    "mtime": 1780715467.8123565,
+    "ast_hash": "6273de7203fc78b7d3e6982a19e509bd",
+    "semantic_hash": "6273de7203fc78b7d3e6982a19e509bd"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\test_validate.py": {
+    "mtime": 1780715467.8292716,
+    "ast_hash": "8814414512b97bb6b16c547d72e1a8e1",
+    "semantic_hash": "8814414512b97bb6b16c547d72e1a8e1"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\test_watch.py": {
+    "mtime": 1780715467.8423107,
+    "ast_hash": "9dfa3e53e118b4fb00ccb93782f53f2d",
+    "semantic_hash": "9dfa3e53e118b4fb00ccb93782f53f2d"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\test_wheel_packaging.py": {
+    "mtime": 1780715467.8573632,
+    "ast_hash": "1cdcbde3da8d5601a85c824b5335f65d",
+    "semantic_hash": "1cdcbde3da8d5601a85c824b5335f65d"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\test_wiki.py": {
+    "mtime": 1780715467.8681521,
+    "ast_hash": "3a5452ec504e9a7f75134d8487336994",
+    "semantic_hash": "3a5452ec504e9a7f75134d8487336994"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\__init__.py": {
+    "mtime": 1780715468.6175992,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\__init__.py": {
+    "mtime": 1780715468.6337743,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\__main__.py": {
+    "mtime": 1780715468.6478648,
+    "ast_hash": "120be0bf3daa3e84d0365bf2a964c8dd",
+    "semantic_hash": "120be0bf3daa3e84d0365bf2a964c8dd"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\gen.py": {
+    "mtime": 1780715468.663623,
+    "ast_hash": "71e0d11af50863d4b53203d5a1ad5274",
+    "semantic_hash": "71e0d11af50863d4b53203d5a1ad5274"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\worked\\example\\raw\\api.py": {
+    "mtime": 1780715471.3149712,
+    "ast_hash": "87566a9c77684f4f4530fa4420eee640",
+    "semantic_hash": "87566a9c77684f4f4530fa4420eee640"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\worked\\example\\raw\\parser.py": {
+    "mtime": 1780715471.3550847,
+    "ast_hash": "21efea30bab7cca650e151c6f89fd1d7",
+    "semantic_hash": "21efea30bab7cca650e151c6f89fd1d7"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\worked\\example\\raw\\processor.py": {
+    "mtime": 1780715471.3618908,
+    "ast_hash": "cb01f05a605c74b45e245be1bd6ef8ae",
+    "semantic_hash": "cb01f05a605c74b45e245be1bd6ef8ae"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\worked\\example\\raw\\storage.py": {
+    "mtime": 1780715471.37798,
+    "ast_hash": "8b191483593ebfa793bf827c9cf27207",
+    "semantic_hash": "8b191483593ebfa793bf827c9cf27207"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\worked\\example\\raw\\validator.py": {
+    "mtime": 1780715471.3941648,
+    "ast_hash": "afe84a35939f084aa88c0c1fd0f227ce",
+    "semantic_hash": "afe84a35939f084aa88c0c1fd0f227ce"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\worked\\httpx\\graph.json": {
+    "mtime": 1780715471.4471004,
+    "ast_hash": "1446618cb9853639ffc87ee417d6d905",
+    "semantic_hash": "1446618cb9853639ffc87ee417d6d905"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\worked\\httpx\\raw\\auth.py": {
+    "mtime": 1780715471.4772058,
+    "ast_hash": "debed2562023af12c4e0924dc14147c2",
+    "semantic_hash": "debed2562023af12c4e0924dc14147c2"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\worked\\httpx\\raw\\client.py": {
+    "mtime": 1780715471.4925334,
+    "ast_hash": "ed8321bf745a4a775dbf64beb644dc35",
+    "semantic_hash": "ed8321bf745a4a775dbf64beb644dc35"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\worked\\httpx\\raw\\exceptions.py": {
+    "mtime": 1780715471.5165532,
+    "ast_hash": "1c7c959133d39f49ca5036deb8745311",
+    "semantic_hash": "1c7c959133d39f49ca5036deb8745311"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\worked\\httpx\\raw\\models.py": {
+    "mtime": 1780715471.5324354,
+    "ast_hash": "88e275491dc5e78e168a31d882f35a44",
+    "semantic_hash": "88e275491dc5e78e168a31d882f35a44"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\worked\\httpx\\raw\\transport.py": {
+    "mtime": 1780715471.537836,
+    "ast_hash": "b6f8740b5a13c964bdd74d5402e77c43",
+    "semantic_hash": "b6f8740b5a13c964bdd74d5402e77c43"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\worked\\httpx\\raw\\utils.py": {
+    "mtime": 1780715471.5539107,
+    "ast_hash": "e43257d477fdb95f7a8b34502c9b937e",
+    "semantic_hash": "e43257d477fdb95f7a8b34502c9b937e"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\worked\\karpathy-repos\\graph.json": {
+    "mtime": 1780715471.6015534,
+    "ast_hash": "abd61650d0de043cd554766be1de6ead",
+    "semantic_hash": "abd61650d0de043cd554766be1de6ead"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\worked\\mixed-corpus\\graph.json": {
+    "mtime": 1780715471.6601827,
+    "ast_hash": "44281b6f5950871988872b57285553a8",
+    "semantic_hash": "44281b6f5950871988872b57285553a8"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\worked\\mixed-corpus\\raw\\analyze.py": {
+    "mtime": 1780715471.681388,
+    "ast_hash": "5e296206840c58ec5ffa57505943bfef",
+    "semantic_hash": "5e296206840c58ec5ffa57505943bfef"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\worked\\mixed-corpus\\raw\\build.py": {
+    "mtime": 1780715471.7239447,
+    "ast_hash": "b835855c0f6ada427b1cbabf73470d4f",
+    "semantic_hash": "b835855c0f6ada427b1cbabf73470d4f"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\worked\\mixed-corpus\\raw\\cluster.py": {
+    "mtime": 1780715471.7295258,
+    "ast_hash": "bdc707bb73ee0f3068051b839abf01fc",
+    "semantic_hash": "bdc707bb73ee0f3068051b839abf01fc"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\worked\\rsl-siege-manager\\graph.json": {
+    "mtime": 1780715471.793193,
+    "ast_hash": "a9b79c479294fc5c216b9b2b681d2203",
+    "semantic_hash": "a9b79c479294fc5c216b9b2b681d2203"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\worked\\rsl-siege-manager\\manifest.json": {
+    "mtime": 1780715471.8094091,
+    "ast_hash": "fe48291973b839b4a121260446f956a0",
+    "semantic_hash": "fe48291973b839b4a121260446f956a0"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\.github\\FUNDING.yml": {
+    "mtime": 1780715463.5321631,
+    "ast_hash": "6cbc649204a1574ea7143f8147a4fb2e",
+    "semantic_hash": "6cbc649204a1574ea7143f8147a4fb2e"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\.github\\workflows\\ci.yml": {
+    "mtime": 1780715463.5513904,
+    "ast_hash": "31648bba96eaaa63e2a33b4c45f7e5fb",
+    "semantic_hash": "31648bba96eaaa63e2a33b4c45f7e5fb"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\.pre-commit-config.yaml": {
+    "mtime": 1780715463.4222295,
+    "ast_hash": "8b8d4cd6c31dcb4dd47ad660a8348580",
+    "semantic_hash": "8b8d4cd6c31dcb4dd47ad660a8348580"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\AGENTS.md": {
+    "mtime": 1780715463.4341598,
+    "ast_hash": "f07b9404a71a45b783c9ebe550db4459",
+    "semantic_hash": "f07b9404a71a45b783c9ebe550db4459"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\ARCHITECTURE.md": {
+    "mtime": 1780715463.4472451,
+    "ast_hash": "8f19a0313d4012123f39bb72f286db86",
+    "semantic_hash": "8f19a0313d4012123f39bb72f286db86"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\CHANGELOG.md": {
+    "mtime": 1780715463.468115,
+    "ast_hash": "f0267c2bfbd7b5d648da0684a0a68fda",
+    "semantic_hash": "f0267c2bfbd7b5d648da0684a0a68fda"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\README.md": {
+    "mtime": 1780715463.4817405,
+    "ast_hash": "dd0052a2fca48fbe5db76b7f8ce4fac0",
+    "semantic_hash": "dd0052a2fca48fbe5db76b7f8ce4fac0"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\SECURITY.md": {
+    "mtime": 1780715463.5002286,
+    "ast_hash": "7f52ed346edf95413a63d4303bfed8e0",
+    "semantic_hash": "7f52ed346edf95413a63d4303bfed8e0"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\docs\\docker-mcp-sqlite.md": {
+    "mtime": 1780715463.5737343,
+    "ast_hash": "97f57f05955e2e8636c59658c22ab8f3",
+    "semantic_hash": "97f57f05955e2e8636c59658c22ab8f3"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\docs\\how-it-works.md": {
+    "mtime": 1780715463.589728,
+    "ast_hash": "53644f34497e3aa15aa0a19e66ba840a",
+    "semantic_hash": "53644f34497e3aa15aa0a19e66ba840a"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\docs\\translations\\README.ar-SA.md": {
+    "mtime": 1780715463.6535504,
+    "ast_hash": "36986303710b2059fb5fe2fb33e820b1",
+    "semantic_hash": "36986303710b2059fb5fe2fb33e820b1"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\docs\\translations\\README.cs-CZ.md": {
+    "mtime": 1780715463.6696675,
+    "ast_hash": "28488681e91684eb7ca950703656b5d7",
+    "semantic_hash": "28488681e91684eb7ca950703656b5d7"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\docs\\translations\\README.da-DK.md": {
+    "mtime": 1780715463.689661,
+    "ast_hash": "4d3f7ed7a7f645e69763c8a752a387c8",
+    "semantic_hash": "4d3f7ed7a7f645e69763c8a752a387c8"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\docs\\translations\\README.de-DE.md": {
+    "mtime": 1780715463.7012987,
+    "ast_hash": "4b39cded581fc87917542cb9fb220369",
+    "semantic_hash": "4b39cded581fc87917542cb9fb220369"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\docs\\translations\\README.el-GR.md": {
+    "mtime": 1780715463.717177,
+    "ast_hash": "c3e9188f3eb30a6469380b1d9387d47e",
+    "semantic_hash": "c3e9188f3eb30a6469380b1d9387d47e"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\docs\\translations\\README.es-ES.md": {
+    "mtime": 1780715463.7330158,
+    "ast_hash": "b2722dea97f778c7821e63d3a8cc23a1",
+    "semantic_hash": "b2722dea97f778c7821e63d3a8cc23a1"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\docs\\translations\\README.fi-FI.md": {
+    "mtime": 1780715463.7528286,
+    "ast_hash": "e6802acf0972ca4b29f3e71bdc8a7985",
+    "semantic_hash": "e6802acf0972ca4b29f3e71bdc8a7985"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\docs\\translations\\README.fil-PH.md": {
+    "mtime": 1780715463.7647407,
+    "ast_hash": "4d6d63a7d27568a14d903bfdf5aed5cc",
+    "semantic_hash": "4d6d63a7d27568a14d903bfdf5aed5cc"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\docs\\translations\\README.fr-FR.md": {
+    "mtime": 1780715463.7825215,
+    "ast_hash": "7fe78b0e77e055a13e1a030b0f9558b8",
+    "semantic_hash": "7fe78b0e77e055a13e1a030b0f9558b8"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\docs\\translations\\README.hi-IN.md": {
+    "mtime": 1780715463.7963984,
+    "ast_hash": "63e59f0c213ca4b94e9d4f20b08e4eb8",
+    "semantic_hash": "63e59f0c213ca4b94e9d4f20b08e4eb8"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\docs\\translations\\README.hu-HU.md": {
+    "mtime": 1780715463.7986412,
+    "ast_hash": "a11b33afa3c8bca30d38d64093c07834",
+    "semantic_hash": "a11b33afa3c8bca30d38d64093c07834"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\docs\\translations\\README.id-ID.md": {
+    "mtime": 1780715463.812368,
+    "ast_hash": "0aedf11aff90d75938162af231047797",
+    "semantic_hash": "0aedf11aff90d75938162af231047797"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\docs\\translations\\README.it-IT.md": {
+    "mtime": 1780715463.8405497,
+    "ast_hash": "f8abb1df4980a2eb373fdb56e76bdbb3",
+    "semantic_hash": "f8abb1df4980a2eb373fdb56e76bdbb3"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\docs\\translations\\README.ja-JP.md": {
+    "mtime": 1780715463.847868,
+    "ast_hash": "655dbeea84c454c291a6355214cf99d0",
+    "semantic_hash": "655dbeea84c454c291a6355214cf99d0"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\docs\\translations\\README.ko-KR.md": {
+    "mtime": 1780715463.8600948,
+    "ast_hash": "bc778036a6aec616712d2c89d6d1de9b",
+    "semantic_hash": "bc778036a6aec616712d2c89d6d1de9b"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\docs\\translations\\README.nl-NL.md": {
+    "mtime": 1780715463.876103,
+    "ast_hash": "d0bf44f78473db5d203ddabd8793964c",
+    "semantic_hash": "d0bf44f78473db5d203ddabd8793964c"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\docs\\translations\\README.no-NO.md": {
+    "mtime": 1780715463.89209,
+    "ast_hash": "87c43eeaefe9269905c159497431ebbe",
+    "semantic_hash": "87c43eeaefe9269905c159497431ebbe"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\docs\\translations\\README.pl-PL.md": {
+    "mtime": 1780715463.9073968,
+    "ast_hash": "14a8984ad2eec3428951a38fe69471e4",
+    "semantic_hash": "14a8984ad2eec3428951a38fe69471e4"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\docs\\translations\\README.pt-BR.md": {
+    "mtime": 1780715463.9233952,
+    "ast_hash": "89c6ee4bab55cbaca10696954a16f6b0",
+    "semantic_hash": "89c6ee4bab55cbaca10696954a16f6b0"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\docs\\translations\\README.ro-RO.md": {
+    "mtime": 1780715463.9520392,
+    "ast_hash": "f54fbdcd17a1a8f3a424d65f3a29d876",
+    "semantic_hash": "f54fbdcd17a1a8f3a424d65f3a29d876"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\docs\\translations\\README.ru-RU.md": {
+    "mtime": 1780715463.9555192,
+    "ast_hash": "3f0d4f0b357c25b4a6189c1dc5e77d0a",
+    "semantic_hash": "3f0d4f0b357c25b4a6189c1dc5e77d0a"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\docs\\translations\\README.sv-SE.md": {
+    "mtime": 1780715463.971533,
+    "ast_hash": "ed764c4c6717a36ca5eaa4257b48ef90",
+    "semantic_hash": "ed764c4c6717a36ca5eaa4257b48ef90"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\docs\\translations\\README.th-TH.md": {
+    "mtime": 1780715463.9876032,
+    "ast_hash": "007a938ea0b5906bcc734e1521aa0db9",
+    "semantic_hash": "007a938ea0b5906bcc734e1521aa0db9"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\docs\\translations\\README.tr-TR.md": {
+    "mtime": 1780715464.0037267,
+    "ast_hash": "050867f50a7ca067c92ff49baedba309",
+    "semantic_hash": "050867f50a7ca067c92ff49baedba309"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\docs\\translations\\README.uk-UA.md": {
+    "mtime": 1780715464.0196629,
+    "ast_hash": "5b2740b5f9a5ef0d7159c533eec8da97",
+    "semantic_hash": "5b2740b5f9a5ef0d7159c533eec8da97"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\docs\\translations\\README.uz-UZ.md": {
+    "mtime": 1780715464.0354226,
+    "ast_hash": "a69b84be3af876392bb4ac6d3d5758c6",
+    "semantic_hash": "a69b84be3af876392bb4ac6d3d5758c6"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\docs\\translations\\README.vi-VN.md": {
+    "mtime": 1780715464.0513864,
+    "ast_hash": "0b46e60b01cb4ab18a1a8f5ea1413efa",
+    "semantic_hash": "0b46e60b01cb4ab18a1a8f5ea1413efa"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\docs\\translations\\README.zh-CN.md": {
+    "mtime": 1780715464.0753455,
+    "ast_hash": "877f0347e9c76c08772765e07422305a",
+    "semantic_hash": "877f0347e9c76c08772765e07422305a"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\docs\\translations\\README.zh-TW.md": {
+    "mtime": 1780715464.0834484,
+    "ast_hash": "b4482964e7c2a3f0e7f651fd4f8e0efb",
+    "semantic_hash": "b4482964e7c2a3f0e7f651fd4f8e0efb"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\always_on\\agents-md.md": {
+    "mtime": 1780715464.8623867,
+    "ast_hash": "62c05a2bf20bf036a0b2633478663e64",
+    "semantic_hash": "62c05a2bf20bf036a0b2633478663e64"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\always_on\\antigravity-rules.md": {
+    "mtime": 1780715464.8782086,
+    "ast_hash": "f1e53ecc9194573d3c28fc116c743a2e",
+    "semantic_hash": "f1e53ecc9194573d3c28fc116c743a2e"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\always_on\\claude-md.md": {
+    "mtime": 1780715464.8961062,
+    "ast_hash": "82efb97a359f5c7290bf2513d14686be",
+    "semantic_hash": "82efb97a359f5c7290bf2513d14686be"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\always_on\\gemini-md.md": {
+    "mtime": 1780715464.9273524,
+    "ast_hash": "82efb97a359f5c7290bf2513d14686be",
+    "semantic_hash": "82efb97a359f5c7290bf2513d14686be"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\always_on\\kiro-steering.md": {
+    "mtime": 1780715464.941095,
+    "ast_hash": "35d9fdc12ba2c629adaaa0d71f51bd22",
+    "semantic_hash": "35d9fdc12ba2c629adaaa0d71f51bd22"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\always_on\\vscode-instructions.md": {
+    "mtime": 1780715464.9591684,
+    "ast_hash": "ec2dc0dc7bef63488889f34de2f5584d",
+    "semantic_hash": "ec2dc0dc7bef63488889f34de2f5584d"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\command-kilo.md": {
+    "mtime": 1780715464.2267787,
+    "ast_hash": "69cf1199081cfc5c1f9a9ebc5208efee",
+    "semantic_hash": "69cf1199081cfc5c1f9a9ebc5208efee"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skill-aider.md": {
+    "mtime": 1780715464.5443616,
+    "ast_hash": "26672825c4c1e6a3a09e3faccf9cd256",
+    "semantic_hash": "26672825c4c1e6a3a09e3faccf9cd256"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skill-amp.md": {
+    "mtime": 1780715464.5602424,
+    "ast_hash": "d6d2e14df03385dbbf3a5e29f4107639",
+    "semantic_hash": "d6d2e14df03385dbbf3a5e29f4107639"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skill-claw.md": {
+    "mtime": 1780715464.577093,
+    "ast_hash": "970327698d88332ba780bd64d4ca8835",
+    "semantic_hash": "970327698d88332ba780bd64d4ca8835"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skill-codex.md": {
+    "mtime": 1780715464.5922909,
+    "ast_hash": "7869351527b616553075b86f6148b0dc",
+    "semantic_hash": "7869351527b616553075b86f6148b0dc"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skill-copilot.md": {
+    "mtime": 1780715464.6080189,
+    "ast_hash": "970327698d88332ba780bd64d4ca8835",
+    "semantic_hash": "970327698d88332ba780bd64d4ca8835"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skill-devin.md": {
+    "mtime": 1780715464.6240332,
+    "ast_hash": "3fac816a133272748786b6912464abd3",
+    "semantic_hash": "3fac816a133272748786b6912464abd3"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skill-droid.md": {
+    "mtime": 1780715464.6399584,
+    "ast_hash": "d7141b351e629702a7162874a56f0d6f",
+    "semantic_hash": "d7141b351e629702a7162874a56f0d6f"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skill-kilo.md": {
+    "mtime": 1780715464.6559968,
+    "ast_hash": "8f816df4e973f91bd6acc71a87cdd184",
+    "semantic_hash": "8f816df4e973f91bd6acc71a87cdd184"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skill-kiro.md": {
+    "mtime": 1780715464.672079,
+    "ast_hash": "3d92d652ba3e4bba18e83a7e68d5b596",
+    "semantic_hash": "3d92d652ba3e4bba18e83a7e68d5b596"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skill-opencode.md": {
+    "mtime": 1780715464.6879017,
+    "ast_hash": "3284a79b13f213cbc5d06109f7a25c4e",
+    "semantic_hash": "3284a79b13f213cbc5d06109f7a25c4e"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skill-pi.md": {
+    "mtime": 1780715464.7036018,
+    "ast_hash": "3d92d652ba3e4bba18e83a7e68d5b596",
+    "semantic_hash": "3d92d652ba3e4bba18e83a7e68d5b596"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skill-trae.md": {
+    "mtime": 1780715464.7194166,
+    "ast_hash": "7c593226aa4df1a1049090de49f6c9ad",
+    "semantic_hash": "7c593226aa4df1a1049090de49f6c9ad"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skill-vscode.md": {
+    "mtime": 1780715464.735618,
+    "ast_hash": "409c94844f271a32b90c017342ccb15d",
+    "semantic_hash": "409c94844f271a32b90c017342ccb15d"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skill-windows.md": {
+    "mtime": 1780715464.7514331,
+    "ast_hash": "c0ac08140ebbce36e6562f1a8d3a97b9",
+    "semantic_hash": "c0ac08140ebbce36e6562f1a8d3a97b9"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skill.md": {
+    "mtime": 1780715464.7671278,
+    "ast_hash": "1acfc5e3ff91c92373909c5c11f55769",
+    "semantic_hash": "1acfc5e3ff91c92373909c5c11f55769"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\amp\\references\\add-watch.md": {
+    "mtime": 1780715464.9859793,
+    "ast_hash": "0df0589623217ca38a12bdcabfb42f4c",
+    "semantic_hash": "0df0589623217ca38a12bdcabfb42f4c"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\amp\\references\\exports.md": {
+    "mtime": 1780715465.0050414,
+    "ast_hash": "7fb1a81aca17a462db70684a324fcfb0",
+    "semantic_hash": "7fb1a81aca17a462db70684a324fcfb0"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\amp\\references\\extraction-spec.md": {
+    "mtime": 1780715465.0137582,
+    "ast_hash": "24808b03abfeaf5f6435bb69c0125b2c",
+    "semantic_hash": "24808b03abfeaf5f6435bb69c0125b2c"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\amp\\references\\github-and-merge.md": {
+    "mtime": 1780715465.0209389,
+    "ast_hash": "cde13df085e4c492aeb7ba298a996d0d",
+    "semantic_hash": "cde13df085e4c492aeb7ba298a996d0d"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\amp\\references\\hooks.md": {
+    "mtime": 1780715465.050485,
+    "ast_hash": "5b62e24bc36a8796351e20f139f0561f",
+    "semantic_hash": "5b62e24bc36a8796351e20f139f0561f"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\amp\\references\\query.md": {
+    "mtime": 1780715465.0653002,
+    "ast_hash": "c2a8e798674a81b02aa9975f43023819",
+    "semantic_hash": "c2a8e798674a81b02aa9975f43023819"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\amp\\references\\transcribe.md": {
+    "mtime": 1780715465.0841634,
+    "ast_hash": "70f6aa30d6211f3a2c7e9fc45479f50c",
+    "semantic_hash": "70f6aa30d6211f3a2c7e9fc45479f50c"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\amp\\references\\update.md": {
+    "mtime": 1780715465.0841634,
+    "ast_hash": "735932eaa4f0c8fef9566c538ae3e5f8",
+    "semantic_hash": "735932eaa4f0c8fef9566c538ae3e5f8"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\claude\\references\\add-watch.md": {
+    "mtime": 1780715465.1160593,
+    "ast_hash": "0df0589623217ca38a12bdcabfb42f4c",
+    "semantic_hash": "0df0589623217ca38a12bdcabfb42f4c"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\claude\\references\\exports.md": {
+    "mtime": 1780715465.131713,
+    "ast_hash": "7fb1a81aca17a462db70684a324fcfb0",
+    "semantic_hash": "7fb1a81aca17a462db70684a324fcfb0"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\claude\\references\\extraction-spec.md": {
+    "mtime": 1780715465.1506083,
+    "ast_hash": "24808b03abfeaf5f6435bb69c0125b2c",
+    "semantic_hash": "24808b03abfeaf5f6435bb69c0125b2c"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\claude\\references\\github-and-merge.md": {
+    "mtime": 1780715465.1632261,
+    "ast_hash": "cde13df085e4c492aeb7ba298a996d0d",
+    "semantic_hash": "cde13df085e4c492aeb7ba298a996d0d"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\claude\\references\\hooks.md": {
+    "mtime": 1780715465.1793761,
+    "ast_hash": "3f545db6ce646650bb9de588f5512a27",
+    "semantic_hash": "3f545db6ce646650bb9de588f5512a27"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\claude\\references\\query.md": {
+    "mtime": 1780715465.2041955,
+    "ast_hash": "8b40ed8c9e9060fc215219a8fc964091",
+    "semantic_hash": "8b40ed8c9e9060fc215219a8fc964091"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\claude\\references\\transcribe.md": {
+    "mtime": 1780715465.2112224,
+    "ast_hash": "70f6aa30d6211f3a2c7e9fc45479f50c",
+    "semantic_hash": "70f6aa30d6211f3a2c7e9fc45479f50c"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\claude\\references\\update.md": {
+    "mtime": 1780715465.2340243,
+    "ast_hash": "735932eaa4f0c8fef9566c538ae3e5f8",
+    "semantic_hash": "735932eaa4f0c8fef9566c538ae3e5f8"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\claw\\references\\add-watch.md": {
+    "mtime": 1780715465.2590344,
+    "ast_hash": "0df0589623217ca38a12bdcabfb42f4c",
+    "semantic_hash": "0df0589623217ca38a12bdcabfb42f4c"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\claw\\references\\exports.md": {
+    "mtime": 1780715465.2747185,
+    "ast_hash": "7fb1a81aca17a462db70684a324fcfb0",
+    "semantic_hash": "7fb1a81aca17a462db70684a324fcfb0"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\claw\\references\\extraction-spec.md": {
+    "mtime": 1780715465.3064904,
+    "ast_hash": "a86a7321597b23cc2b22e011b3dc6e1d",
+    "semantic_hash": "a86a7321597b23cc2b22e011b3dc6e1d"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\claw\\references\\github-and-merge.md": {
+    "mtime": 1780715465.3224978,
+    "ast_hash": "cde13df085e4c492aeb7ba298a996d0d",
+    "semantic_hash": "cde13df085e4c492aeb7ba298a996d0d"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\claw\\references\\hooks.md": {
+    "mtime": 1780715465.3433032,
+    "ast_hash": "3f545db6ce646650bb9de588f5512a27",
+    "semantic_hash": "3f545db6ce646650bb9de588f5512a27"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\claw\\references\\query.md": {
+    "mtime": 1780715465.3543384,
+    "ast_hash": "c2a8e798674a81b02aa9975f43023819",
+    "semantic_hash": "c2a8e798674a81b02aa9975f43023819"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\claw\\references\\transcribe.md": {
+    "mtime": 1780715465.3700745,
+    "ast_hash": "70f6aa30d6211f3a2c7e9fc45479f50c",
+    "semantic_hash": "70f6aa30d6211f3a2c7e9fc45479f50c"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\claw\\references\\update.md": {
+    "mtime": 1780715465.3901675,
+    "ast_hash": "735932eaa4f0c8fef9566c538ae3e5f8",
+    "semantic_hash": "735932eaa4f0c8fef9566c538ae3e5f8"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\codex\\references\\add-watch.md": {
+    "mtime": 1780715465.4182172,
+    "ast_hash": "0df0589623217ca38a12bdcabfb42f4c",
+    "semantic_hash": "0df0589623217ca38a12bdcabfb42f4c"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\codex\\references\\exports.md": {
+    "mtime": 1780715465.4343762,
+    "ast_hash": "7fb1a81aca17a462db70684a324fcfb0",
+    "semantic_hash": "7fb1a81aca17a462db70684a324fcfb0"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\codex\\references\\extraction-spec.md": {
+    "mtime": 1780715465.450766,
+    "ast_hash": "a86a7321597b23cc2b22e011b3dc6e1d",
+    "semantic_hash": "a86a7321597b23cc2b22e011b3dc6e1d"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\codex\\references\\github-and-merge.md": {
+    "mtime": 1780715465.4661787,
+    "ast_hash": "cde13df085e4c492aeb7ba298a996d0d",
+    "semantic_hash": "cde13df085e4c492aeb7ba298a996d0d"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\codex\\references\\hooks.md": {
+    "mtime": 1780715465.4820325,
+    "ast_hash": "3f545db6ce646650bb9de588f5512a27",
+    "semantic_hash": "3f545db6ce646650bb9de588f5512a27"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\codex\\references\\query.md": {
+    "mtime": 1780715465.498166,
+    "ast_hash": "c2a8e798674a81b02aa9975f43023819",
+    "semantic_hash": "c2a8e798674a81b02aa9975f43023819"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\codex\\references\\transcribe.md": {
+    "mtime": 1780715465.513959,
+    "ast_hash": "70f6aa30d6211f3a2c7e9fc45479f50c",
+    "semantic_hash": "70f6aa30d6211f3a2c7e9fc45479f50c"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\codex\\references\\update.md": {
+    "mtime": 1780715465.5297227,
+    "ast_hash": "735932eaa4f0c8fef9566c538ae3e5f8",
+    "semantic_hash": "735932eaa4f0c8fef9566c538ae3e5f8"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\copilot\\references\\add-watch.md": {
+    "mtime": 1780715465.5508158,
+    "ast_hash": "0df0589623217ca38a12bdcabfb42f4c",
+    "semantic_hash": "0df0589623217ca38a12bdcabfb42f4c"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\copilot\\references\\exports.md": {
+    "mtime": 1780715465.5615804,
+    "ast_hash": "7fb1a81aca17a462db70684a324fcfb0",
+    "semantic_hash": "7fb1a81aca17a462db70684a324fcfb0"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\copilot\\references\\extraction-spec.md": {
+    "mtime": 1780715465.5834503,
+    "ast_hash": "24808b03abfeaf5f6435bb69c0125b2c",
+    "semantic_hash": "24808b03abfeaf5f6435bb69c0125b2c"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\copilot\\references\\github-and-merge.md": {
+    "mtime": 1780715465.5932183,
+    "ast_hash": "cde13df085e4c492aeb7ba298a996d0d",
+    "semantic_hash": "cde13df085e4c492aeb7ba298a996d0d"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\copilot\\references\\hooks.md": {
+    "mtime": 1780715465.6090376,
+    "ast_hash": "3f545db6ce646650bb9de588f5512a27",
+    "semantic_hash": "3f545db6ce646650bb9de588f5512a27"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\copilot\\references\\query.md": {
+    "mtime": 1780715465.626941,
+    "ast_hash": "c2a8e798674a81b02aa9975f43023819",
+    "semantic_hash": "c2a8e798674a81b02aa9975f43023819"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\copilot\\references\\transcribe.md": {
+    "mtime": 1780715465.6507194,
+    "ast_hash": "70f6aa30d6211f3a2c7e9fc45479f50c",
+    "semantic_hash": "70f6aa30d6211f3a2c7e9fc45479f50c"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\copilot\\references\\update.md": {
+    "mtime": 1780715465.6608095,
+    "ast_hash": "735932eaa4f0c8fef9566c538ae3e5f8",
+    "semantic_hash": "735932eaa4f0c8fef9566c538ae3e5f8"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\droid\\references\\add-watch.md": {
+    "mtime": 1780715465.6888628,
+    "ast_hash": "0df0589623217ca38a12bdcabfb42f4c",
+    "semantic_hash": "0df0589623217ca38a12bdcabfb42f4c"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\droid\\references\\exports.md": {
+    "mtime": 1780715465.7069263,
+    "ast_hash": "7fb1a81aca17a462db70684a324fcfb0",
+    "semantic_hash": "7fb1a81aca17a462db70684a324fcfb0"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\droid\\references\\extraction-spec.md": {
+    "mtime": 1780715465.7228577,
+    "ast_hash": "24808b03abfeaf5f6435bb69c0125b2c",
+    "semantic_hash": "24808b03abfeaf5f6435bb69c0125b2c"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\droid\\references\\github-and-merge.md": {
+    "mtime": 1780715465.7367706,
+    "ast_hash": "cde13df085e4c492aeb7ba298a996d0d",
+    "semantic_hash": "cde13df085e4c492aeb7ba298a996d0d"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\droid\\references\\hooks.md": {
+    "mtime": 1780715465.7528932,
+    "ast_hash": "3f545db6ce646650bb9de588f5512a27",
+    "semantic_hash": "3f545db6ce646650bb9de588f5512a27"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\droid\\references\\query.md": {
+    "mtime": 1780715465.7707565,
+    "ast_hash": "c2a8e798674a81b02aa9975f43023819",
+    "semantic_hash": "c2a8e798674a81b02aa9975f43023819"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\droid\\references\\transcribe.md": {
+    "mtime": 1780715465.786971,
+    "ast_hash": "70f6aa30d6211f3a2c7e9fc45479f50c",
+    "semantic_hash": "70f6aa30d6211f3a2c7e9fc45479f50c"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\droid\\references\\update.md": {
+    "mtime": 1780715465.80056,
+    "ast_hash": "735932eaa4f0c8fef9566c538ae3e5f8",
+    "semantic_hash": "735932eaa4f0c8fef9566c538ae3e5f8"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\kilo\\references\\add-watch.md": {
+    "mtime": 1780715465.8165758,
+    "ast_hash": "0df0589623217ca38a12bdcabfb42f4c",
+    "semantic_hash": "0df0589623217ca38a12bdcabfb42f4c"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\kilo\\references\\exports.md": {
+    "mtime": 1780715465.8421311,
+    "ast_hash": "7fb1a81aca17a462db70684a324fcfb0",
+    "semantic_hash": "7fb1a81aca17a462db70684a324fcfb0"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\kilo\\references\\extraction-spec.md": {
+    "mtime": 1780715465.8512397,
+    "ast_hash": "24808b03abfeaf5f6435bb69c0125b2c",
+    "semantic_hash": "24808b03abfeaf5f6435bb69c0125b2c"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\kilo\\references\\github-and-merge.md": {
+    "mtime": 1780715465.8643613,
+    "ast_hash": "cde13df085e4c492aeb7ba298a996d0d",
+    "semantic_hash": "cde13df085e4c492aeb7ba298a996d0d"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\kilo\\references\\hooks.md": {
+    "mtime": 1780715465.8916733,
+    "ast_hash": "3f545db6ce646650bb9de588f5512a27",
+    "semantic_hash": "3f545db6ce646650bb9de588f5512a27"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\kilo\\references\\query.md": {
+    "mtime": 1780715465.905563,
+    "ast_hash": "c2a8e798674a81b02aa9975f43023819",
+    "semantic_hash": "c2a8e798674a81b02aa9975f43023819"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\kilo\\references\\transcribe.md": {
+    "mtime": 1780715465.9214551,
+    "ast_hash": "70f6aa30d6211f3a2c7e9fc45479f50c",
+    "semantic_hash": "70f6aa30d6211f3a2c7e9fc45479f50c"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\kilo\\references\\update.md": {
+    "mtime": 1780715465.937347,
+    "ast_hash": "735932eaa4f0c8fef9566c538ae3e5f8",
+    "semantic_hash": "735932eaa4f0c8fef9566c538ae3e5f8"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\kiro\\references\\add-watch.md": {
+    "mtime": 1780715465.9596436,
+    "ast_hash": "0df0589623217ca38a12bdcabfb42f4c",
+    "semantic_hash": "0df0589623217ca38a12bdcabfb42f4c"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\kiro\\references\\exports.md": {
+    "mtime": 1780715465.975813,
+    "ast_hash": "7fb1a81aca17a462db70684a324fcfb0",
+    "semantic_hash": "7fb1a81aca17a462db70684a324fcfb0"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\kiro\\references\\extraction-spec.md": {
+    "mtime": 1780715465.9918034,
+    "ast_hash": "a86a7321597b23cc2b22e011b3dc6e1d",
+    "semantic_hash": "a86a7321597b23cc2b22e011b3dc6e1d"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\kiro\\references\\github-and-merge.md": {
+    "mtime": 1780715466.0079393,
+    "ast_hash": "cde13df085e4c492aeb7ba298a996d0d",
+    "semantic_hash": "cde13df085e4c492aeb7ba298a996d0d"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\kiro\\references\\hooks.md": {
+    "mtime": 1780715466.0237691,
+    "ast_hash": "3f545db6ce646650bb9de588f5512a27",
+    "semantic_hash": "3f545db6ce646650bb9de588f5512a27"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\kiro\\references\\query.md": {
+    "mtime": 1780715466.0415022,
+    "ast_hash": "c2a8e798674a81b02aa9975f43023819",
+    "semantic_hash": "c2a8e798674a81b02aa9975f43023819"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\kiro\\references\\transcribe.md": {
+    "mtime": 1780715466.0558767,
+    "ast_hash": "70f6aa30d6211f3a2c7e9fc45479f50c",
+    "semantic_hash": "70f6aa30d6211f3a2c7e9fc45479f50c"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\kiro\\references\\update.md": {
+    "mtime": 1780715466.0718124,
+    "ast_hash": "735932eaa4f0c8fef9566c538ae3e5f8",
+    "semantic_hash": "735932eaa4f0c8fef9566c538ae3e5f8"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\opencode\\references\\add-watch.md": {
+    "mtime": 1780715466.0914917,
+    "ast_hash": "0df0589623217ca38a12bdcabfb42f4c",
+    "semantic_hash": "0df0589623217ca38a12bdcabfb42f4c"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\opencode\\references\\exports.md": {
+    "mtime": 1780715466.1089118,
+    "ast_hash": "7fb1a81aca17a462db70684a324fcfb0",
+    "semantic_hash": "7fb1a81aca17a462db70684a324fcfb0"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\opencode\\references\\extraction-spec.md": {
+    "mtime": 1780715466.1278594,
+    "ast_hash": "24808b03abfeaf5f6435bb69c0125b2c",
+    "semantic_hash": "24808b03abfeaf5f6435bb69c0125b2c"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\opencode\\references\\github-and-merge.md": {
+    "mtime": 1780715466.134943,
+    "ast_hash": "cde13df085e4c492aeb7ba298a996d0d",
+    "semantic_hash": "cde13df085e4c492aeb7ba298a996d0d"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\opencode\\references\\hooks.md": {
+    "mtime": 1780715466.1532779,
+    "ast_hash": "3f545db6ce646650bb9de588f5512a27",
+    "semantic_hash": "3f545db6ce646650bb9de588f5512a27"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\opencode\\references\\query.md": {
+    "mtime": 1780715466.1666539,
+    "ast_hash": "c2a8e798674a81b02aa9975f43023819",
+    "semantic_hash": "c2a8e798674a81b02aa9975f43023819"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\opencode\\references\\transcribe.md": {
+    "mtime": 1780715466.1903396,
+    "ast_hash": "70f6aa30d6211f3a2c7e9fc45479f50c",
+    "semantic_hash": "70f6aa30d6211f3a2c7e9fc45479f50c"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\opencode\\references\\update.md": {
+    "mtime": 1780715466.1980872,
+    "ast_hash": "735932eaa4f0c8fef9566c538ae3e5f8",
+    "semantic_hash": "735932eaa4f0c8fef9566c538ae3e5f8"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\pi\\references\\add-watch.md": {
+    "mtime": 1780715466.230122,
+    "ast_hash": "0df0589623217ca38a12bdcabfb42f4c",
+    "semantic_hash": "0df0589623217ca38a12bdcabfb42f4c"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\pi\\references\\exports.md": {
+    "mtime": 1780715466.2461362,
+    "ast_hash": "7fb1a81aca17a462db70684a324fcfb0",
+    "semantic_hash": "7fb1a81aca17a462db70684a324fcfb0"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\pi\\references\\extraction-spec.md": {
+    "mtime": 1780715466.2620058,
+    "ast_hash": "a86a7321597b23cc2b22e011b3dc6e1d",
+    "semantic_hash": "a86a7321597b23cc2b22e011b3dc6e1d"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\pi\\references\\github-and-merge.md": {
+    "mtime": 1780715466.2781374,
+    "ast_hash": "cde13df085e4c492aeb7ba298a996d0d",
+    "semantic_hash": "cde13df085e4c492aeb7ba298a996d0d"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\pi\\references\\hooks.md": {
+    "mtime": 1780715466.2958417,
+    "ast_hash": "3f545db6ce646650bb9de588f5512a27",
+    "semantic_hash": "3f545db6ce646650bb9de588f5512a27"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\pi\\references\\query.md": {
+    "mtime": 1780715466.3094685,
+    "ast_hash": "c2a8e798674a81b02aa9975f43023819",
+    "semantic_hash": "c2a8e798674a81b02aa9975f43023819"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\pi\\references\\transcribe.md": {
+    "mtime": 1780715466.3256063,
+    "ast_hash": "70f6aa30d6211f3a2c7e9fc45479f50c",
+    "semantic_hash": "70f6aa30d6211f3a2c7e9fc45479f50c"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\pi\\references\\update.md": {
+    "mtime": 1780715466.341372,
+    "ast_hash": "735932eaa4f0c8fef9566c538ae3e5f8",
+    "semantic_hash": "735932eaa4f0c8fef9566c538ae3e5f8"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\trae\\references\\add-watch.md": {
+    "mtime": 1780715466.3612711,
+    "ast_hash": "0df0589623217ca38a12bdcabfb42f4c",
+    "semantic_hash": "0df0589623217ca38a12bdcabfb42f4c"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\trae\\references\\exports.md": {
+    "mtime": 1780715466.3818288,
+    "ast_hash": "7fb1a81aca17a462db70684a324fcfb0",
+    "semantic_hash": "7fb1a81aca17a462db70684a324fcfb0"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\trae\\references\\extraction-spec.md": {
+    "mtime": 1780715466.3986409,
+    "ast_hash": "24808b03abfeaf5f6435bb69c0125b2c",
+    "semantic_hash": "24808b03abfeaf5f6435bb69c0125b2c"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\trae\\references\\github-and-merge.md": {
+    "mtime": 1780715466.4155726,
+    "ast_hash": "cde13df085e4c492aeb7ba298a996d0d",
+    "semantic_hash": "cde13df085e4c492aeb7ba298a996d0d"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\trae\\references\\hooks.md": {
+    "mtime": 1780715466.4334555,
+    "ast_hash": "2dd6877d25f7e97008b0df6aa76af093",
+    "semantic_hash": "2dd6877d25f7e97008b0df6aa76af093"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\trae\\references\\query.md": {
+    "mtime": 1780715466.43721,
+    "ast_hash": "c2a8e798674a81b02aa9975f43023819",
+    "semantic_hash": "c2a8e798674a81b02aa9975f43023819"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\trae\\references\\transcribe.md": {
+    "mtime": 1780715466.4531045,
+    "ast_hash": "70f6aa30d6211f3a2c7e9fc45479f50c",
+    "semantic_hash": "70f6aa30d6211f3a2c7e9fc45479f50c"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\trae\\references\\update.md": {
+    "mtime": 1780715466.4689689,
+    "ast_hash": "735932eaa4f0c8fef9566c538ae3e5f8",
+    "semantic_hash": "735932eaa4f0c8fef9566c538ae3e5f8"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\vscode\\references\\add-watch.md": {
+    "mtime": 1780715466.5008,
+    "ast_hash": "0df0589623217ca38a12bdcabfb42f4c",
+    "semantic_hash": "0df0589623217ca38a12bdcabfb42f4c"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\vscode\\references\\exports.md": {
+    "mtime": 1780715466.5164378,
+    "ast_hash": "7fb1a81aca17a462db70684a324fcfb0",
+    "semantic_hash": "7fb1a81aca17a462db70684a324fcfb0"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\vscode\\references\\extraction-spec.md": {
+    "mtime": 1780715466.536013,
+    "ast_hash": "24808b03abfeaf5f6435bb69c0125b2c",
+    "semantic_hash": "24808b03abfeaf5f6435bb69c0125b2c"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\vscode\\references\\github-and-merge.md": {
+    "mtime": 1780715466.5519578,
+    "ast_hash": "cde13df085e4c492aeb7ba298a996d0d",
+    "semantic_hash": "cde13df085e4c492aeb7ba298a996d0d"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\vscode\\references\\hooks.md": {
+    "mtime": 1780715466.567391,
+    "ast_hash": "3f545db6ce646650bb9de588f5512a27",
+    "semantic_hash": "3f545db6ce646650bb9de588f5512a27"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\vscode\\references\\query.md": {
+    "mtime": 1780715466.57929,
+    "ast_hash": "c2a8e798674a81b02aa9975f43023819",
+    "semantic_hash": "c2a8e798674a81b02aa9975f43023819"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\vscode\\references\\transcribe.md": {
+    "mtime": 1780715466.5954895,
+    "ast_hash": "70f6aa30d6211f3a2c7e9fc45479f50c",
+    "semantic_hash": "70f6aa30d6211f3a2c7e9fc45479f50c"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\vscode\\references\\update.md": {
+    "mtime": 1780715466.6113935,
+    "ast_hash": "735932eaa4f0c8fef9566c538ae3e5f8",
+    "semantic_hash": "735932eaa4f0c8fef9566c538ae3e5f8"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\windows\\references\\add-watch.md": {
+    "mtime": 1780715466.638764,
+    "ast_hash": "0df0589623217ca38a12bdcabfb42f4c",
+    "semantic_hash": "0df0589623217ca38a12bdcabfb42f4c"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\windows\\references\\exports.md": {
+    "mtime": 1780715466.6520786,
+    "ast_hash": "7fb1a81aca17a462db70684a324fcfb0",
+    "semantic_hash": "7fb1a81aca17a462db70684a324fcfb0"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\windows\\references\\extraction-spec.md": {
+    "mtime": 1780715466.6665475,
+    "ast_hash": "24808b03abfeaf5f6435bb69c0125b2c",
+    "semantic_hash": "24808b03abfeaf5f6435bb69c0125b2c"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\windows\\references\\github-and-merge.md": {
+    "mtime": 1780715466.6874661,
+    "ast_hash": "cde13df085e4c492aeb7ba298a996d0d",
+    "semantic_hash": "cde13df085e4c492aeb7ba298a996d0d"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\windows\\references\\hooks.md": {
+    "mtime": 1780715466.6909492,
+    "ast_hash": "3f545db6ce646650bb9de588f5512a27",
+    "semantic_hash": "3f545db6ce646650bb9de588f5512a27"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\windows\\references\\query.md": {
+    "mtime": 1780715466.7068307,
+    "ast_hash": "c2a8e798674a81b02aa9975f43023819",
+    "semantic_hash": "c2a8e798674a81b02aa9975f43023819"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\windows\\references\\transcribe.md": {
+    "mtime": 1780715466.7347713,
+    "ast_hash": "70f6aa30d6211f3a2c7e9fc45479f50c",
+    "semantic_hash": "70f6aa30d6211f3a2c7e9fc45479f50c"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\graphify\\skills\\windows\\references\\update.md": {
+    "mtime": 1780715466.7498705,
+    "ast_hash": "735932eaa4f0c8fef9566c538ae3e5f8",
+    "semantic_hash": "735932eaa4f0c8fef9566c538ae3e5f8"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\fixtures\\deploy_guide.md": {
+    "mtime": 1780715467.9225008,
+    "ast_hash": "de6e51ec8ba81d1c16a53657cfe17396",
+    "semantic_hash": "de6e51ec8ba81d1c16a53657cfe17396"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tests\\fixtures\\sample.md": {
+    "mtime": 1780715468.1851647,
+    "ast_hash": "0743d4fee74f186429cbb16fd311f8ed",
+    "semantic_hash": "0743d4fee74f186429cbb16fd311f8ed"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__always_on__agents-md.md": {
+    "mtime": 1780715468.695744,
+    "ast_hash": "62c05a2bf20bf036a0b2633478663e64",
+    "semantic_hash": "62c05a2bf20bf036a0b2633478663e64"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__always_on__antigravity-rules.md": {
+    "mtime": 1780715468.7115366,
+    "ast_hash": "f1e53ecc9194573d3c28fc116c743a2e",
+    "semantic_hash": "f1e53ecc9194573d3c28fc116c743a2e"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__always_on__claude-md.md": {
+    "mtime": 1780715468.7270129,
+    "ast_hash": "82efb97a359f5c7290bf2513d14686be",
+    "semantic_hash": "82efb97a359f5c7290bf2513d14686be"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__always_on__gemini-md.md": {
+    "mtime": 1780715468.7270129,
+    "ast_hash": "82efb97a359f5c7290bf2513d14686be",
+    "semantic_hash": "82efb97a359f5c7290bf2513d14686be"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__always_on__kiro-steering.md": {
+    "mtime": 1780715468.7559795,
+    "ast_hash": "35d9fdc12ba2c629adaaa0d71f51bd22",
+    "semantic_hash": "35d9fdc12ba2c629adaaa0d71f51bd22"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__always_on__vscode-instructions.md": {
+    "mtime": 1780715468.7623332,
+    "ast_hash": "ec2dc0dc7bef63488889f34de2f5584d",
+    "semantic_hash": "ec2dc0dc7bef63488889f34de2f5584d"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skill-aider.md": {
+    "mtime": 1780715468.7908514,
+    "ast_hash": "26672825c4c1e6a3a09e3faccf9cd256",
+    "semantic_hash": "26672825c4c1e6a3a09e3faccf9cd256"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skill-amp.md": {
+    "mtime": 1780715468.8089008,
+    "ast_hash": "d6d2e14df03385dbbf3a5e29f4107639",
+    "semantic_hash": "d6d2e14df03385dbbf3a5e29f4107639"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skill-claw.md": {
+    "mtime": 1780715468.822819,
+    "ast_hash": "970327698d88332ba780bd64d4ca8835",
+    "semantic_hash": "970327698d88332ba780bd64d4ca8835"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skill-codex.md": {
+    "mtime": 1780715468.8381007,
+    "ast_hash": "7869351527b616553075b86f6148b0dc",
+    "semantic_hash": "7869351527b616553075b86f6148b0dc"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skill-copilot.md": {
+    "mtime": 1780715468.858022,
+    "ast_hash": "970327698d88332ba780bd64d4ca8835",
+    "semantic_hash": "970327698d88332ba780bd64d4ca8835"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skill-devin.md": {
+    "mtime": 1780715468.8697681,
+    "ast_hash": "3fac816a133272748786b6912464abd3",
+    "semantic_hash": "3fac816a133272748786b6912464abd3"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skill-droid.md": {
+    "mtime": 1780715468.885765,
+    "ast_hash": "d7141b351e629702a7162874a56f0d6f",
+    "semantic_hash": "d7141b351e629702a7162874a56f0d6f"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skill-kilo.md": {
+    "mtime": 1780715468.9038587,
+    "ast_hash": "8f816df4e973f91bd6acc71a87cdd184",
+    "semantic_hash": "8f816df4e973f91bd6acc71a87cdd184"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skill-kiro.md": {
+    "mtime": 1780715468.9220967,
+    "ast_hash": "3d92d652ba3e4bba18e83a7e68d5b596",
+    "semantic_hash": "3d92d652ba3e4bba18e83a7e68d5b596"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skill-opencode.md": {
+    "mtime": 1780715468.9373567,
+    "ast_hash": "3284a79b13f213cbc5d06109f7a25c4e",
+    "semantic_hash": "3284a79b13f213cbc5d06109f7a25c4e"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skill-pi.md": {
+    "mtime": 1780715468.9515975,
+    "ast_hash": "3d92d652ba3e4bba18e83a7e68d5b596",
+    "semantic_hash": "3d92d652ba3e4bba18e83a7e68d5b596"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skill-trae.md": {
+    "mtime": 1780715468.96476,
+    "ast_hash": "7c593226aa4df1a1049090de49f6c9ad",
+    "semantic_hash": "7c593226aa4df1a1049090de49f6c9ad"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skill-vscode.md": {
+    "mtime": 1780715468.980755,
+    "ast_hash": "409c94844f271a32b90c017342ccb15d",
+    "semantic_hash": "409c94844f271a32b90c017342ccb15d"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skill-windows.md": {
+    "mtime": 1780715469.001777,
+    "ast_hash": "c0ac08140ebbce36e6562f1a8d3a97b9",
+    "semantic_hash": "c0ac08140ebbce36e6562f1a8d3a97b9"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skill.md": {
+    "mtime": 1780715469.0236113,
+    "ast_hash": "1acfc5e3ff91c92373909c5c11f55769",
+    "semantic_hash": "1acfc5e3ff91c92373909c5c11f55769"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__amp__references__add-watch.md": {
+    "mtime": 1780715469.0395312,
+    "ast_hash": "0df0589623217ca38a12bdcabfb42f4c",
+    "semantic_hash": "0df0589623217ca38a12bdcabfb42f4c"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__amp__references__exports.md": {
+    "mtime": 1780715469.0565312,
+    "ast_hash": "7fb1a81aca17a462db70684a324fcfb0",
+    "semantic_hash": "7fb1a81aca17a462db70684a324fcfb0"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__amp__references__extraction-spec.md": {
+    "mtime": 1780715469.07023,
+    "ast_hash": "24808b03abfeaf5f6435bb69c0125b2c",
+    "semantic_hash": "24808b03abfeaf5f6435bb69c0125b2c"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__amp__references__github-and-merge.md": {
+    "mtime": 1780715469.0826278,
+    "ast_hash": "cde13df085e4c492aeb7ba298a996d0d",
+    "semantic_hash": "cde13df085e4c492aeb7ba298a996d0d"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__amp__references__hooks.md": {
+    "mtime": 1780715469.0981157,
+    "ast_hash": "5b62e24bc36a8796351e20f139f0561f",
+    "semantic_hash": "5b62e24bc36a8796351e20f139f0561f"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__amp__references__query.md": {
+    "mtime": 1780715469.1080172,
+    "ast_hash": "c2a8e798674a81b02aa9975f43023819",
+    "semantic_hash": "c2a8e798674a81b02aa9975f43023819"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__amp__references__transcribe.md": {
+    "mtime": 1780715469.123811,
+    "ast_hash": "70f6aa30d6211f3a2c7e9fc45479f50c",
+    "semantic_hash": "70f6aa30d6211f3a2c7e9fc45479f50c"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__amp__references__update.md": {
+    "mtime": 1780715469.1399236,
+    "ast_hash": "735932eaa4f0c8fef9566c538ae3e5f8",
+    "semantic_hash": "735932eaa4f0c8fef9566c538ae3e5f8"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__claude__references__add-watch.md": {
+    "mtime": 1780715469.1617463,
+    "ast_hash": "0df0589623217ca38a12bdcabfb42f4c",
+    "semantic_hash": "0df0589623217ca38a12bdcabfb42f4c"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__claude__references__exports.md": {
+    "mtime": 1780715469.1736226,
+    "ast_hash": "7fb1a81aca17a462db70684a324fcfb0",
+    "semantic_hash": "7fb1a81aca17a462db70684a324fcfb0"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__claude__references__extraction-spec.md": {
+    "mtime": 1780715469.1873636,
+    "ast_hash": "24808b03abfeaf5f6435bb69c0125b2c",
+    "semantic_hash": "24808b03abfeaf5f6435bb69c0125b2c"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__claude__references__github-and-merge.md": {
+    "mtime": 1780715469.2131069,
+    "ast_hash": "cde13df085e4c492aeb7ba298a996d0d",
+    "semantic_hash": "cde13df085e4c492aeb7ba298a996d0d"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__claude__references__hooks.md": {
+    "mtime": 1780715469.2269998,
+    "ast_hash": "3f545db6ce646650bb9de588f5512a27",
+    "semantic_hash": "3f545db6ce646650bb9de588f5512a27"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__claude__references__query.md": {
+    "mtime": 1780715469.2371058,
+    "ast_hash": "8b40ed8c9e9060fc215219a8fc964091",
+    "semantic_hash": "8b40ed8c9e9060fc215219a8fc964091"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__claude__references__transcribe.md": {
+    "mtime": 1780715469.261108,
+    "ast_hash": "70f6aa30d6211f3a2c7e9fc45479f50c",
+    "semantic_hash": "70f6aa30d6211f3a2c7e9fc45479f50c"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__claude__references__update.md": {
+    "mtime": 1780715469.2711153,
+    "ast_hash": "735932eaa4f0c8fef9566c538ae3e5f8",
+    "semantic_hash": "735932eaa4f0c8fef9566c538ae3e5f8"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__claw__references__add-watch.md": {
+    "mtime": 1780715469.2844834,
+    "ast_hash": "0df0589623217ca38a12bdcabfb42f4c",
+    "semantic_hash": "0df0589623217ca38a12bdcabfb42f4c"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__claw__references__exports.md": {
+    "mtime": 1780715469.2985666,
+    "ast_hash": "7fb1a81aca17a462db70684a324fcfb0",
+    "semantic_hash": "7fb1a81aca17a462db70684a324fcfb0"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__claw__references__extraction-spec.md": {
+    "mtime": 1780715469.3144276,
+    "ast_hash": "a86a7321597b23cc2b22e011b3dc6e1d",
+    "semantic_hash": "a86a7321597b23cc2b22e011b3dc6e1d"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__claw__references__github-and-merge.md": {
+    "mtime": 1780715469.3408942,
+    "ast_hash": "cde13df085e4c492aeb7ba298a996d0d",
+    "semantic_hash": "cde13df085e4c492aeb7ba298a996d0d"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__claw__references__hooks.md": {
+    "mtime": 1780715469.3539832,
+    "ast_hash": "3f545db6ce646650bb9de588f5512a27",
+    "semantic_hash": "3f545db6ce646650bb9de588f5512a27"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__claw__references__query.md": {
+    "mtime": 1780715469.3707917,
+    "ast_hash": "c2a8e798674a81b02aa9975f43023819",
+    "semantic_hash": "c2a8e798674a81b02aa9975f43023819"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__claw__references__transcribe.md": {
+    "mtime": 1780715469.3838668,
+    "ast_hash": "70f6aa30d6211f3a2c7e9fc45479f50c",
+    "semantic_hash": "70f6aa30d6211f3a2c7e9fc45479f50c"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__claw__references__update.md": {
+    "mtime": 1780715469.4097908,
+    "ast_hash": "735932eaa4f0c8fef9566c538ae3e5f8",
+    "semantic_hash": "735932eaa4f0c8fef9566c538ae3e5f8"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__codex__references__add-watch.md": {
+    "mtime": 1780715469.4258268,
+    "ast_hash": "0df0589623217ca38a12bdcabfb42f4c",
+    "semantic_hash": "0df0589623217ca38a12bdcabfb42f4c"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__codex__references__exports.md": {
+    "mtime": 1780715469.4419112,
+    "ast_hash": "7fb1a81aca17a462db70684a324fcfb0",
+    "semantic_hash": "7fb1a81aca17a462db70684a324fcfb0"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__codex__references__extraction-spec.md": {
+    "mtime": 1780715469.4595718,
+    "ast_hash": "a86a7321597b23cc2b22e011b3dc6e1d",
+    "semantic_hash": "a86a7321597b23cc2b22e011b3dc6e1d"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__codex__references__github-and-merge.md": {
+    "mtime": 1780715469.4774065,
+    "ast_hash": "cde13df085e4c492aeb7ba298a996d0d",
+    "semantic_hash": "cde13df085e4c492aeb7ba298a996d0d"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__codex__references__hooks.md": {
+    "mtime": 1780715469.4913418,
+    "ast_hash": "3f545db6ce646650bb9de588f5512a27",
+    "semantic_hash": "3f545db6ce646650bb9de588f5512a27"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__codex__references__query.md": {
+    "mtime": 1780715469.505501,
+    "ast_hash": "c2a8e798674a81b02aa9975f43023819",
+    "semantic_hash": "c2a8e798674a81b02aa9975f43023819"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__codex__references__transcribe.md": {
+    "mtime": 1780715469.5207455,
+    "ast_hash": "70f6aa30d6211f3a2c7e9fc45479f50c",
+    "semantic_hash": "70f6aa30d6211f3a2c7e9fc45479f50c"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__codex__references__update.md": {
+    "mtime": 1780715469.5365794,
+    "ast_hash": "735932eaa4f0c8fef9566c538ae3e5f8",
+    "semantic_hash": "735932eaa4f0c8fef9566c538ae3e5f8"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__copilot__references__add-watch.md": {
+    "mtime": 1780715469.5524092,
+    "ast_hash": "0df0589623217ca38a12bdcabfb42f4c",
+    "semantic_hash": "0df0589623217ca38a12bdcabfb42f4c"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__copilot__references__exports.md": {
+    "mtime": 1780715469.5682101,
+    "ast_hash": "7fb1a81aca17a462db70684a324fcfb0",
+    "semantic_hash": "7fb1a81aca17a462db70684a324fcfb0"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__copilot__references__extraction-spec.md": {
+    "mtime": 1780715469.583923,
+    "ast_hash": "24808b03abfeaf5f6435bb69c0125b2c",
+    "semantic_hash": "24808b03abfeaf5f6435bb69c0125b2c"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__copilot__references__github-and-merge.md": {
+    "mtime": 1780715469.5997684,
+    "ast_hash": "cde13df085e4c492aeb7ba298a996d0d",
+    "semantic_hash": "cde13df085e4c492aeb7ba298a996d0d"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__copilot__references__hooks.md": {
+    "mtime": 1780715469.6154916,
+    "ast_hash": "3f545db6ce646650bb9de588f5512a27",
+    "semantic_hash": "3f545db6ce646650bb9de588f5512a27"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__copilot__references__query.md": {
+    "mtime": 1780715469.6313925,
+    "ast_hash": "c2a8e798674a81b02aa9975f43023819",
+    "semantic_hash": "c2a8e798674a81b02aa9975f43023819"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__copilot__references__transcribe.md": {
+    "mtime": 1780715469.6475463,
+    "ast_hash": "70f6aa30d6211f3a2c7e9fc45479f50c",
+    "semantic_hash": "70f6aa30d6211f3a2c7e9fc45479f50c"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__copilot__references__update.md": {
+    "mtime": 1780715469.6636193,
+    "ast_hash": "735932eaa4f0c8fef9566c538ae3e5f8",
+    "semantic_hash": "735932eaa4f0c8fef9566c538ae3e5f8"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__droid__references__add-watch.md": {
+    "mtime": 1780715469.6735253,
+    "ast_hash": "0df0589623217ca38a12bdcabfb42f4c",
+    "semantic_hash": "0df0589623217ca38a12bdcabfb42f4c"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__droid__references__exports.md": {
+    "mtime": 1780715469.6797242,
+    "ast_hash": "7fb1a81aca17a462db70684a324fcfb0",
+    "semantic_hash": "7fb1a81aca17a462db70684a324fcfb0"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__droid__references__extraction-spec.md": {
+    "mtime": 1780715469.7076323,
+    "ast_hash": "24808b03abfeaf5f6435bb69c0125b2c",
+    "semantic_hash": "24808b03abfeaf5f6435bb69c0125b2c"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__droid__references__github-and-merge.md": {
+    "mtime": 1780715469.7249548,
+    "ast_hash": "cde13df085e4c492aeb7ba298a996d0d",
+    "semantic_hash": "cde13df085e4c492aeb7ba298a996d0d"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__droid__references__hooks.md": {
+    "mtime": 1780715469.7289686,
+    "ast_hash": "3f545db6ce646650bb9de588f5512a27",
+    "semantic_hash": "3f545db6ce646650bb9de588f5512a27"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__droid__references__query.md": {
+    "mtime": 1780715469.7567036,
+    "ast_hash": "c2a8e798674a81b02aa9975f43023819",
+    "semantic_hash": "c2a8e798674a81b02aa9975f43023819"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__droid__references__transcribe.md": {
+    "mtime": 1780715469.7659266,
+    "ast_hash": "70f6aa30d6211f3a2c7e9fc45479f50c",
+    "semantic_hash": "70f6aa30d6211f3a2c7e9fc45479f50c"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__droid__references__update.md": {
+    "mtime": 1780715469.7742445,
+    "ast_hash": "735932eaa4f0c8fef9566c538ae3e5f8",
+    "semantic_hash": "735932eaa4f0c8fef9566c538ae3e5f8"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__kilo__references__add-watch.md": {
+    "mtime": 1780715469.790087,
+    "ast_hash": "0df0589623217ca38a12bdcabfb42f4c",
+    "semantic_hash": "0df0589623217ca38a12bdcabfb42f4c"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__kilo__references__exports.md": {
+    "mtime": 1780715469.8060925,
+    "ast_hash": "7fb1a81aca17a462db70684a324fcfb0",
+    "semantic_hash": "7fb1a81aca17a462db70684a324fcfb0"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__kilo__references__extraction-spec.md": {
+    "mtime": 1780715469.8217387,
+    "ast_hash": "24808b03abfeaf5f6435bb69c0125b2c",
+    "semantic_hash": "24808b03abfeaf5f6435bb69c0125b2c"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__kilo__references__github-and-merge.md": {
+    "mtime": 1780715469.849916,
+    "ast_hash": "cde13df085e4c492aeb7ba298a996d0d",
+    "semantic_hash": "cde13df085e4c492aeb7ba298a996d0d"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__kilo__references__hooks.md": {
+    "mtime": 1780715469.863801,
+    "ast_hash": "3f545db6ce646650bb9de588f5512a27",
+    "semantic_hash": "3f545db6ce646650bb9de588f5512a27"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__kilo__references__query.md": {
+    "mtime": 1780715469.869483,
+    "ast_hash": "c2a8e798674a81b02aa9975f43023819",
+    "semantic_hash": "c2a8e798674a81b02aa9975f43023819"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__kilo__references__transcribe.md": {
+    "mtime": 1780715469.8954885,
+    "ast_hash": "70f6aa30d6211f3a2c7e9fc45479f50c",
+    "semantic_hash": "70f6aa30d6211f3a2c7e9fc45479f50c"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__kilo__references__update.md": {
+    "mtime": 1780715469.9011579,
+    "ast_hash": "735932eaa4f0c8fef9566c538ae3e5f8",
+    "semantic_hash": "735932eaa4f0c8fef9566c538ae3e5f8"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__kiro__references__add-watch.md": {
+    "mtime": 1780715469.928308,
+    "ast_hash": "0df0589623217ca38a12bdcabfb42f4c",
+    "semantic_hash": "0df0589623217ca38a12bdcabfb42f4c"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__kiro__references__exports.md": {
+    "mtime": 1780715469.9327557,
+    "ast_hash": "7fb1a81aca17a462db70684a324fcfb0",
+    "semantic_hash": "7fb1a81aca17a462db70684a324fcfb0"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__kiro__references__extraction-spec.md": {
+    "mtime": 1780715469.9588869,
+    "ast_hash": "a86a7321597b23cc2b22e011b3dc6e1d",
+    "semantic_hash": "a86a7321597b23cc2b22e011b3dc6e1d"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__kiro__references__github-and-merge.md": {
+    "mtime": 1780715469.964406,
+    "ast_hash": "cde13df085e4c492aeb7ba298a996d0d",
+    "semantic_hash": "cde13df085e4c492aeb7ba298a996d0d"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__kiro__references__hooks.md": {
+    "mtime": 1780715469.980259,
+    "ast_hash": "3f545db6ce646650bb9de588f5512a27",
+    "semantic_hash": "3f545db6ce646650bb9de588f5512a27"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__kiro__references__query.md": {
+    "mtime": 1780715470.0067053,
+    "ast_hash": "c2a8e798674a81b02aa9975f43023819",
+    "semantic_hash": "c2a8e798674a81b02aa9975f43023819"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__kiro__references__transcribe.md": {
+    "mtime": 1780715470.021686,
+    "ast_hash": "70f6aa30d6211f3a2c7e9fc45479f50c",
+    "semantic_hash": "70f6aa30d6211f3a2c7e9fc45479f50c"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__kiro__references__update.md": {
+    "mtime": 1780715470.0275192,
+    "ast_hash": "735932eaa4f0c8fef9566c538ae3e5f8",
+    "semantic_hash": "735932eaa4f0c8fef9566c538ae3e5f8"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__opencode__references__add-watch.md": {
+    "mtime": 1780715470.0458539,
+    "ast_hash": "0df0589623217ca38a12bdcabfb42f4c",
+    "semantic_hash": "0df0589623217ca38a12bdcabfb42f4c"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__opencode__references__exports.md": {
+    "mtime": 1780715470.0592697,
+    "ast_hash": "7fb1a81aca17a462db70684a324fcfb0",
+    "semantic_hash": "7fb1a81aca17a462db70684a324fcfb0"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__opencode__references__extraction-spec.md": {
+    "mtime": 1780715470.0770285,
+    "ast_hash": "24808b03abfeaf5f6435bb69c0125b2c",
+    "semantic_hash": "24808b03abfeaf5f6435bb69c0125b2c"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__opencode__references__github-and-merge.md": {
+    "mtime": 1780715470.1002147,
+    "ast_hash": "cde13df085e4c492aeb7ba298a996d0d",
+    "semantic_hash": "cde13df085e4c492aeb7ba298a996d0d"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__opencode__references__hooks.md": {
+    "mtime": 1780715470.106988,
+    "ast_hash": "3f545db6ce646650bb9de588f5512a27",
+    "semantic_hash": "3f545db6ce646650bb9de588f5512a27"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__opencode__references__query.md": {
+    "mtime": 1780715470.1229823,
+    "ast_hash": "c2a8e798674a81b02aa9975f43023819",
+    "semantic_hash": "c2a8e798674a81b02aa9975f43023819"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__opencode__references__transcribe.md": {
+    "mtime": 1780715470.13899,
+    "ast_hash": "70f6aa30d6211f3a2c7e9fc45479f50c",
+    "semantic_hash": "70f6aa30d6211f3a2c7e9fc45479f50c"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__opencode__references__update.md": {
+    "mtime": 1780715470.159375,
+    "ast_hash": "735932eaa4f0c8fef9566c538ae3e5f8",
+    "semantic_hash": "735932eaa4f0c8fef9566c538ae3e5f8"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__pi__references__add-watch.md": {
+    "mtime": 1780715470.1708431,
+    "ast_hash": "0df0589623217ca38a12bdcabfb42f4c",
+    "semantic_hash": "0df0589623217ca38a12bdcabfb42f4c"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__pi__references__exports.md": {
+    "mtime": 1780715470.194195,
+    "ast_hash": "7fb1a81aca17a462db70684a324fcfb0",
+    "semantic_hash": "7fb1a81aca17a462db70684a324fcfb0"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__pi__references__extraction-spec.md": {
+    "mtime": 1780715470.2110212,
+    "ast_hash": "a86a7321597b23cc2b22e011b3dc6e1d",
+    "semantic_hash": "a86a7321597b23cc2b22e011b3dc6e1d"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__pi__references__github-and-merge.md": {
+    "mtime": 1780715470.224903,
+    "ast_hash": "cde13df085e4c492aeb7ba298a996d0d",
+    "semantic_hash": "cde13df085e4c492aeb7ba298a996d0d"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__pi__references__hooks.md": {
+    "mtime": 1780715470.2378583,
+    "ast_hash": "3f545db6ce646650bb9de588f5512a27",
+    "semantic_hash": "3f545db6ce646650bb9de588f5512a27"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__pi__references__query.md": {
+    "mtime": 1780715470.2514293,
+    "ast_hash": "c2a8e798674a81b02aa9975f43023819",
+    "semantic_hash": "c2a8e798674a81b02aa9975f43023819"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__pi__references__transcribe.md": {
+    "mtime": 1780715470.2654295,
+    "ast_hash": "70f6aa30d6211f3a2c7e9fc45479f50c",
+    "semantic_hash": "70f6aa30d6211f3a2c7e9fc45479f50c"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__pi__references__update.md": {
+    "mtime": 1780715470.2894113,
+    "ast_hash": "735932eaa4f0c8fef9566c538ae3e5f8",
+    "semantic_hash": "735932eaa4f0c8fef9566c538ae3e5f8"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__trae__references__add-watch.md": {
+    "mtime": 1780715470.2993605,
+    "ast_hash": "0df0589623217ca38a12bdcabfb42f4c",
+    "semantic_hash": "0df0589623217ca38a12bdcabfb42f4c"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__trae__references__exports.md": {
+    "mtime": 1780715470.3194396,
+    "ast_hash": "7fb1a81aca17a462db70684a324fcfb0",
+    "semantic_hash": "7fb1a81aca17a462db70684a324fcfb0"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__trae__references__extraction-spec.md": {
+    "mtime": 1780715470.3360174,
+    "ast_hash": "24808b03abfeaf5f6435bb69c0125b2c",
+    "semantic_hash": "24808b03abfeaf5f6435bb69c0125b2c"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__trae__references__github-and-merge.md": {
+    "mtime": 1780715470.350976,
+    "ast_hash": "cde13df085e4c492aeb7ba298a996d0d",
+    "semantic_hash": "cde13df085e4c492aeb7ba298a996d0d"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__trae__references__hooks.md": {
+    "mtime": 1780715470.3609002,
+    "ast_hash": "2dd6877d25f7e97008b0df6aa76af093",
+    "semantic_hash": "2dd6877d25f7e97008b0df6aa76af093"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__trae__references__query.md": {
+    "mtime": 1780715470.3769922,
+    "ast_hash": "c2a8e798674a81b02aa9975f43023819",
+    "semantic_hash": "c2a8e798674a81b02aa9975f43023819"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__trae__references__transcribe.md": {
+    "mtime": 1780715470.4028728,
+    "ast_hash": "70f6aa30d6211f3a2c7e9fc45479f50c",
+    "semantic_hash": "70f6aa30d6211f3a2c7e9fc45479f50c"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__trae__references__update.md": {
+    "mtime": 1780715470.4090624,
+    "ast_hash": "735932eaa4f0c8fef9566c538ae3e5f8",
+    "semantic_hash": "735932eaa4f0c8fef9566c538ae3e5f8"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__vscode__references__add-watch.md": {
+    "mtime": 1780715470.4249363,
+    "ast_hash": "0df0589623217ca38a12bdcabfb42f4c",
+    "semantic_hash": "0df0589623217ca38a12bdcabfb42f4c"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__vscode__references__exports.md": {
+    "mtime": 1780715470.44845,
+    "ast_hash": "7fb1a81aca17a462db70684a324fcfb0",
+    "semantic_hash": "7fb1a81aca17a462db70684a324fcfb0"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__vscode__references__extraction-spec.md": {
+    "mtime": 1780715470.4640267,
+    "ast_hash": "24808b03abfeaf5f6435bb69c0125b2c",
+    "semantic_hash": "24808b03abfeaf5f6435bb69c0125b2c"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__vscode__references__github-and-merge.md": {
+    "mtime": 1780715470.4730039,
+    "ast_hash": "cde13df085e4c492aeb7ba298a996d0d",
+    "semantic_hash": "cde13df085e4c492aeb7ba298a996d0d"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__vscode__references__hooks.md": {
+    "mtime": 1780715470.488938,
+    "ast_hash": "3f545db6ce646650bb9de588f5512a27",
+    "semantic_hash": "3f545db6ce646650bb9de588f5512a27"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__vscode__references__query.md": {
+    "mtime": 1780715470.5050912,
+    "ast_hash": "c2a8e798674a81b02aa9975f43023819",
+    "semantic_hash": "c2a8e798674a81b02aa9975f43023819"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__vscode__references__transcribe.md": {
+    "mtime": 1780715470.5213153,
+    "ast_hash": "70f6aa30d6211f3a2c7e9fc45479f50c",
+    "semantic_hash": "70f6aa30d6211f3a2c7e9fc45479f50c"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__vscode__references__update.md": {
+    "mtime": 1780715470.5371866,
+    "ast_hash": "735932eaa4f0c8fef9566c538ae3e5f8",
+    "semantic_hash": "735932eaa4f0c8fef9566c538ae3e5f8"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__windows__references__add-watch.md": {
+    "mtime": 1780715470.5602343,
+    "ast_hash": "0df0589623217ca38a12bdcabfb42f4c",
+    "semantic_hash": "0df0589623217ca38a12bdcabfb42f4c"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__windows__references__exports.md": {
+    "mtime": 1780715470.5692215,
+    "ast_hash": "7fb1a81aca17a462db70684a324fcfb0",
+    "semantic_hash": "7fb1a81aca17a462db70684a324fcfb0"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__windows__references__extraction-spec.md": {
+    "mtime": 1780715470.585312,
+    "ast_hash": "24808b03abfeaf5f6435bb69c0125b2c",
+    "semantic_hash": "24808b03abfeaf5f6435bb69c0125b2c"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__windows__references__github-and-merge.md": {
+    "mtime": 1780715470.6012475,
+    "ast_hash": "cde13df085e4c492aeb7ba298a996d0d",
+    "semantic_hash": "cde13df085e4c492aeb7ba298a996d0d"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__windows__references__hooks.md": {
+    "mtime": 1780715470.6216776,
+    "ast_hash": "3f545db6ce646650bb9de588f5512a27",
+    "semantic_hash": "3f545db6ce646650bb9de588f5512a27"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__windows__references__query.md": {
+    "mtime": 1780715470.6373384,
+    "ast_hash": "c2a8e798674a81b02aa9975f43023819",
+    "semantic_hash": "c2a8e798674a81b02aa9975f43023819"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__windows__references__transcribe.md": {
+    "mtime": 1780715470.6531727,
+    "ast_hash": "70f6aa30d6211f3a2c7e9fc45479f50c",
+    "semantic_hash": "70f6aa30d6211f3a2c7e9fc45479f50c"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\expected\\graphify__skills__windows__references__update.md": {
+    "mtime": 1780715470.664341,
+    "ast_hash": "735932eaa4f0c8fef9566c538ae3e5f8",
+    "semantic_hash": "735932eaa4f0c8fef9566c538ae3e5f8"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\fragments\\always-on\\agents-md.md": {
+    "mtime": 1780715470.6941836,
+    "ast_hash": "62c05a2bf20bf036a0b2633478663e64",
+    "semantic_hash": "62c05a2bf20bf036a0b2633478663e64"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\fragments\\always-on\\antigravity-rules.md": {
+    "mtime": 1780715470.7080698,
+    "ast_hash": "f1e53ecc9194573d3c28fc116c743a2e",
+    "semantic_hash": "f1e53ecc9194573d3c28fc116c743a2e"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\fragments\\always-on\\claude-md.md": {
+    "mtime": 1780715470.7159433,
+    "ast_hash": "82efb97a359f5c7290bf2513d14686be",
+    "semantic_hash": "82efb97a359f5c7290bf2513d14686be"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\fragments\\always-on\\gemini-md.md": {
+    "mtime": 1780715470.7407913,
+    "ast_hash": "82efb97a359f5c7290bf2513d14686be",
+    "semantic_hash": "82efb97a359f5c7290bf2513d14686be"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\fragments\\always-on\\kiro-steering.md": {
+    "mtime": 1780715470.7438028,
+    "ast_hash": "35d9fdc12ba2c629adaaa0d71f51bd22",
+    "semantic_hash": "35d9fdc12ba2c629adaaa0d71f51bd22"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\fragments\\always-on\\vscode-instructions.md": {
+    "mtime": 1780715470.7705703,
+    "ast_hash": "ec2dc0dc7bef63488889f34de2f5584d",
+    "semantic_hash": "ec2dc0dc7bef63488889f34de2f5584d"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\fragments\\core\\aider.md": {
+    "mtime": 1780715470.7935743,
+    "ast_hash": "26672825c4c1e6a3a09e3faccf9cd256",
+    "semantic_hash": "26672825c4c1e6a3a09e3faccf9cd256"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\fragments\\core\\core.md": {
+    "mtime": 1780715470.807358,
+    "ast_hash": "9a5381ee9de4043d5992db43b7e12914",
+    "semantic_hash": "9a5381ee9de4043d5992db43b7e12914"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\fragments\\core\\devin.md": {
+    "mtime": 1780715470.825169,
+    "ast_hash": "3fac816a133272748786b6912464abd3",
+    "semantic_hash": "3fac816a133272748786b6912464abd3"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\fragments\\dispatch\\agent-tool-disk-powershell.md": {
+    "mtime": 1780715470.8571117,
+    "ast_hash": "40a95652a9916d7febec22ed6fbd935c",
+    "semantic_hash": "40a95652a9916d7febec22ed6fbd935c"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\fragments\\dispatch\\agent-tool-disk.md": {
+    "mtime": 1780715470.870766,
+    "ast_hash": "2b789e95ef72758c7cb0759f25eb205a",
+    "semantic_hash": "2b789e95ef72758c7cb0759f25eb205a"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\fragments\\dispatch\\codex-agenttask.md": {
+    "mtime": 1780715470.8866487,
+    "ast_hash": "3993c12a80d0a09c6a4c099a59897d0f",
+    "semantic_hash": "3993c12a80d0a09c6a4c099a59897d0f"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\fragments\\dispatch\\manual-paste.md": {
+    "mtime": 1780715470.9074533,
+    "ast_hash": "faf9ff716ae6e9f858c349c0beaa3794",
+    "semantic_hash": "faf9ff716ae6e9f858c349c0beaa3794"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\fragments\\dispatch\\opencode-mention.md": {
+    "mtime": 1780715470.9186747,
+    "ast_hash": "0ed69cde75cbf3fd418e3ecd3af9e760",
+    "semantic_hash": "0ed69cde75cbf3fd418e3ecd3af9e760"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\fragments\\dispatch\\task-tool-disk-trae.md": {
+    "mtime": 1780715470.9345462,
+    "ast_hash": "0d9a834bdd78139a8639cb6e6c177f19",
+    "semantic_hash": "0d9a834bdd78139a8639cb6e6c177f19"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\fragments\\dispatch\\task-tool-disk.md": {
+    "mtime": 1780715470.9570913,
+    "ast_hash": "5b3f3b2d8d63935bbf163bbdf4642347",
+    "semantic_hash": "5b3f3b2d8d63935bbf163bbdf4642347"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\fragments\\extra\\kilo-rules.md": {
+    "mtime": 1780715470.9844275,
+    "ast_hash": "a6759268cc9a6f0420562f5d74e9c26e",
+    "semantic_hash": "a6759268cc9a6f0420562f5d74e9c26e"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\fragments\\extra\\powershell-troubleshooting.md": {
+    "mtime": 1780715470.9981506,
+    "ast_hash": "cfd8c4c360e20f37099ed2da9e856ff1",
+    "semantic_hash": "cfd8c4c360e20f37099ed2da9e856ff1"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\fragments\\query-stub\\cli-inline.md": {
+    "mtime": 1780715471.0139334,
+    "ast_hash": "2ecb994efa67c1d7af665a50b3532dfe",
+    "semantic_hash": "2ecb994efa67c1d7af665a50b3532dfe"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\fragments\\query-stub\\cli.md": {
+    "mtime": 1780715471.0364406,
+    "ast_hash": "b16be8b98405de242924355526837203",
+    "semantic_hash": "b16be8b98405de242924355526837203"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\fragments\\references\\host\\hooks-agents-md.md": {
+    "mtime": 1780715471.0615356,
+    "ast_hash": "b93e9971e33b0b68d72000dd59b8132a",
+    "semantic_hash": "b93e9971e33b0b68d72000dd59b8132a"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\fragments\\references\\query\\cli-inline.md": {
+    "mtime": 1780715471.077282,
+    "ast_hash": "c2a8e798674a81b02aa9975f43023819",
+    "semantic_hash": "c2a8e798674a81b02aa9975f43023819"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\fragments\\references\\query\\cli.md": {
+    "mtime": 1780715471.0931373,
+    "ast_hash": "8b40ed8c9e9060fc215219a8fc964091",
+    "semantic_hash": "8b40ed8c9e9060fc215219a8fc964091"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\fragments\\references\\shared\\add-watch.md": {
+    "mtime": 1780715471.1287432,
+    "ast_hash": "0df0589623217ca38a12bdcabfb42f4c",
+    "semantic_hash": "0df0589623217ca38a12bdcabfb42f4c"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\fragments\\references\\shared\\exports.md": {
+    "mtime": 1780715471.1407466,
+    "ast_hash": "7fb1a81aca17a462db70684a324fcfb0",
+    "semantic_hash": "7fb1a81aca17a462db70684a324fcfb0"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\fragments\\references\\shared\\extraction-spec-compact.md": {
+    "mtime": 1780715471.1564922,
+    "ast_hash": "a86a7321597b23cc2b22e011b3dc6e1d",
+    "semantic_hash": "a86a7321597b23cc2b22e011b3dc6e1d"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\fragments\\references\\shared\\extraction-spec.md": {
+    "mtime": 1780715471.1725245,
+    "ast_hash": "24808b03abfeaf5f6435bb69c0125b2c",
+    "semantic_hash": "24808b03abfeaf5f6435bb69c0125b2c"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\fragments\\references\\shared\\github-and-merge.md": {
+    "mtime": 1780715471.188229,
+    "ast_hash": "cde13df085e4c492aeb7ba298a996d0d",
+    "semantic_hash": "cde13df085e4c492aeb7ba298a996d0d"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\fragments\\references\\shared\\hooks.md": {
+    "mtime": 1780715471.2059264,
+    "ast_hash": "3f545db6ce646650bb9de588f5512a27",
+    "semantic_hash": "3f545db6ce646650bb9de588f5512a27"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\fragments\\references\\shared\\transcribe.md": {
+    "mtime": 1780715471.219754,
+    "ast_hash": "70f6aa30d6211f3a2c7e9fc45479f50c",
+    "semantic_hash": "70f6aa30d6211f3a2c7e9fc45479f50c"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\fragments\\references\\shared\\update.md": {
+    "mtime": 1780715471.2354953,
+    "ast_hash": "735932eaa4f0c8fef9566c538ae3e5f8",
+    "semantic_hash": "735932eaa4f0c8fef9566c538ae3e5f8"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\fragments\\shell\\posix.md": {
+    "mtime": 1780715471.251226,
+    "ast_hash": "7384cc786e21f4599d0b61e548159712",
+    "semantic_hash": "7384cc786e21f4599d0b61e548159712"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\tools\\skillgen\\fragments\\shell\\powershell.md": {
+    "mtime": 1780715471.2712777,
+    "ast_hash": "fcf29deb05f0162d44440e9b353595c6",
+    "semantic_hash": "fcf29deb05f0162d44440e9b353595c6"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\worked\\example\\README.md": {
+    "mtime": 1780715471.285318,
+    "ast_hash": "97830758f1c4c54f010a9ff976f625d7",
+    "semantic_hash": "97830758f1c4c54f010a9ff976f625d7"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\worked\\example\\raw\\architecture.md": {
+    "mtime": 1780715471.3149712,
+    "ast_hash": "45d939d3f3f0b6ed071f159f2470d96f",
+    "semantic_hash": "45d939d3f3f0b6ed071f159f2470d96f"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\worked\\example\\raw\\notes.md": {
+    "mtime": 1780715471.3400018,
+    "ast_hash": "1d54a92e595b7a3ed0ac5aa948a0f935",
+    "semantic_hash": "1d54a92e595b7a3ed0ac5aa948a0f935"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\worked\\httpx\\GRAPH_REPORT.md": {
+    "mtime": 1780715471.4213276,
+    "ast_hash": "f0b3ddfd3f35ca7126db7c10563af9f3",
+    "semantic_hash": "f0b3ddfd3f35ca7126db7c10563af9f3"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\worked\\httpx\\README.md": {
+    "mtime": 1780715471.432556,
+    "ast_hash": "55efb26bf30d3e3538ae09cc4896c09e",
+    "semantic_hash": "55efb26bf30d3e3538ae09cc4896c09e"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\worked\\httpx\\review.md": {
+    "mtime": 1780715471.4679346,
+    "ast_hash": "4cb710d1f8770c465eb263d63b36bf69",
+    "semantic_hash": "4cb710d1f8770c465eb263d63b36bf69"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\worked\\karpathy-repos\\GRAPH_REPORT.md": {
+    "mtime": 1780715471.56983,
+    "ast_hash": "2d0b4f3371b3f58e54c88225c82b9402",
+    "semantic_hash": "2d0b4f3371b3f58e54c88225c82b9402"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\worked\\karpathy-repos\\README.md": {
+    "mtime": 1780715471.5876932,
+    "ast_hash": "7dcd5db4d3b535fd61c00d8cee99566c",
+    "semantic_hash": "7dcd5db4d3b535fd61c00d8cee99566c"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\worked\\karpathy-repos\\review.md": {
+    "mtime": 1780715471.6174345,
+    "ast_hash": "0978e0bd396d642a4db24ccb92f17d6b",
+    "semantic_hash": "0978e0bd396d642a4db24ccb92f17d6b"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\worked\\mixed-corpus\\GRAPH_REPORT.md": {
+    "mtime": 1780715471.6333458,
+    "ast_hash": "5573a6537adda124a4f3dfa319b4b917",
+    "semantic_hash": "5573a6537adda124a4f3dfa319b4b917"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\worked\\mixed-corpus\\README.md": {
+    "mtime": 1780715471.6494083,
+    "ast_hash": "6ff08dd64ccef57058fcb850df7ed536",
+    "semantic_hash": "6ff08dd64ccef57058fcb850df7ed536"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\worked\\mixed-corpus\\review.md": {
+    "mtime": 1780715471.6674333,
+    "ast_hash": "1ff38ab46526bddae260b6c524bb507a",
+    "semantic_hash": "1ff38ab46526bddae260b6c524bb507a"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\worked\\rsl-siege-manager\\GRAPH_REPORT.md": {
+    "mtime": 1780715471.762671,
+    "ast_hash": "ed7f19bc62d5628ad51b59a55a985147",
+    "semantic_hash": "ed7f19bc62d5628ad51b59a55a985147"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\worked\\rsl-siege-manager\\README.md": {
+    "mtime": 1780715471.7772362,
+    "ast_hash": "6cf597e9c172b846257c0330c3f6d642",
+    "semantic_hash": "6cf597e9c172b846257c0330c3f6d642"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\worked\\rsl-siege-manager\\graph.html": {
+    "mtime": 1780715471.7772362,
+    "ast_hash": "ff7fd9d83bfb901b6096d8e4a24298a2",
+    "semantic_hash": "ff7fd9d83bfb901b6096d8e4a24298a2"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\worked\\rsl-siege-manager\\review.md": {
+    "mtime": 1780715471.827326,
+    "ast_hash": "55b3cbd1666150735213f71ac8ddca87",
+    "semantic_hash": "55b3cbd1666150735213f71ac8ddca87"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\worked\\mixed-corpus\\raw\\attention_notes.md": {
+    "mtime": 1780715471.6975262,
+    "ast_hash": "9d6a5c77396725c564a2db7e850a2c8e",
+    "semantic_hash": "9d6a5c77396725c564a2db7e850a2c8e"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\docs\\logo-icon.svg": {
+    "mtime": 1780715463.596219,
+    "ast_hash": "d599ecc974285c70dbf5d4fc53d9632e",
+    "semantic_hash": "d599ecc974285c70dbf5d4fc53d9632e"
+  },
+  "C:\\Users\\simon\\Downloads\\graphify_chase_ai\\graphify-8\\docs\\logo-text.svg": {
+    "mtime": 1780715463.6027577,
+    "ast_hash": "7dbb208e36d257cae7848dc804291733",
+    "semantic_hash": "7dbb208e36d257cae7848dc804291733"
+  }
+}

@@ -1,0 +1,3 @@
+warning: source match was ambiguous (top score 4933.42, runner-up 4930.95)
+Shortest path (2 hops):
+  main() --calls [INFERRED]--> _rebuild_code() --calls [INFERRED]--> extract()
