@@ -6,9 +6,16 @@ Windows, with every artifact, raw command output, and token receipt committed as
 
 ### ▶ [Open the interactive knowledge graph](https://az9713.github.io/graphify-on-graphify/)
 
-> 6,188 nodes · 11,460 edges · 971 communities (aggregated view) — click nodes, search,
-> filter, zoom. Served via GitHub Pages; GitHub strips scripts/iframes from READMEs, so
-> the live graph runs at the link above rather than inline.
+[![Interactive knowledge graph of the graphify v8 repo](graphify-out/graph-preview.png)](https://az9713.github.io/graphify-on-graphify/)
+
+> **Click the image** for the live, interactive **upgraded viewer**: the original
+> graphify-generated `graph.html` (6,188 nodes · 11,460 edges · 971 communities,
+> aggregated view — click nodes, search, filter, zoom) plus an interpretation sidebar
+> this repo adds on top: live stats and god-node rankings computed in-browser from
+> `graph.json`, an edge-honesty bar (94.5% EXTRACTED / 5.5% INFERRED / 0.0% AMBIGUOUS),
+> a "hide builtin hubs" toggle that demonstrates finding #1 live, and a guided tour of
+> the five surprises. (GitHub strips scripts/iframes from READMEs, so the interactive
+> version runs at the link rather than inline.)
 > Also live: [Mermaid call-flow architecture page](https://az9713.github.io/graphify-on-graphify/graphify-out/graphify_chase_ai-callflow.html).
 
 - `graphify-8/` — the corpus: a snapshot of [safishamsi/graphify](https://github.com/safishamsi/graphify) (v8 branch, MIT — see `graphify-8/LICENSE`). 540 files · ~844K words · 196 code / 341 docs / 1 paper / 2 SVGs.
